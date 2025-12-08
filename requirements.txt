@@ -1,0 +1,7 @@
+openai
+pydantic
+numpy
+pandas
+python-dotenv
+tqdm
+pinecone-client
