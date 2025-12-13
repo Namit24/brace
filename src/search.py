@@ -14,18 +14,12 @@ class SearchEngine:
         self.actors = self._load_actors()
         print(f"Loaded {len(self.actors)} actors")
 
-    # -------------------------
-    # Data loading
-    # -------------------------
+
     def _load_actors(self) -> List[Actor]:
         if not os.path.exists(Config.DATA_PATH):
             return []
         with open(Config.DATA_PATH, "r", encoding="utf-8") as f:
             return [Actor.model_validate(x) for x in json.load(f)]
-
-    # -------------------------
-    # Query understanding
-    # -------------------------
     def extract_constraints(self, query: str) -> Dict[str, str]:
         q = query.lower()
         constraints = {}
@@ -43,12 +37,7 @@ class SearchEngine:
             constraints["location"] = "bengaluru"
 
         return constraints
-
-    # -------------------------
-    # Hard filtering
-    # -------------------------
     def matches_constraints(self, actor: Actor, constraints: Dict[str, str]) -> bool:
-        # Education filter
         if "education_school" in constraints:
             found = False
             for edu in actor.professional.education:
@@ -58,7 +47,6 @@ class SearchEngine:
             if not found:
                 return False
 
-        # Company filter
         if "company" in constraints:
             found = False
             for job in actor.professional.workexperience:
@@ -68,16 +56,12 @@ class SearchEngine:
             if not found:
                 return False
 
-        # Location filter
         if "location" in constraints:
             if constraints["location"] not in (actor.profile.location or "").lower():
                 return False
 
         return True
 
-    # -------------------------
-    # Text used for ranking
-    # -------------------------
     def build_search_text(self, actor: Actor) -> str:
         parts = [
             actor.profile.name,
@@ -94,15 +78,11 @@ class SearchEngine:
 
         return " ".join(parts)
 
-    # -------------------------
-    # Search entry point
-    # -------------------------
     def search_single_query(self, query: str, top_k: int = 5):
         print(f"\nSearching for: '{query}'\n")
 
         constraints = self.extract_constraints(query)
 
-        # Step 1: Hard filter
         candidates = [
             actor for actor in self.actors
             if self.matches_constraints(actor, constraints)
@@ -112,13 +92,11 @@ class SearchEngine:
             print("No results after applying constraints.\n")
             return []
 
-        # Step 2: Embed query
         query_vec = get_embedding(query)
         if not query_vec:
             print("Failed to embed query.")
             return []
 
-        # Step 3: Rank candidates
         scored = []
         for actor in candidates:
             text = self.build_search_text(actor)
@@ -132,7 +110,6 @@ class SearchEngine:
         scored.sort(key=lambda x: x[1], reverse=True)
         results = scored[:top_k]
 
-        # Output
         for i, (actor, score) in enumerate(results, 1):
             print(f"{i}. {actor.profile.name} (Score: {score:.4f})")
             print(f"   {actor.profile.headline}")
@@ -140,9 +117,6 @@ class SearchEngine:
 
         return results
 
-    # -------------------------
-    # Utils
-    # -------------------------
     def cosine_similarity(self, a: List[float], b: List[float]) -> float:
         dot = sum(x * y for x, y in zip(a, b))
         norm_a = sum(x * x for x in a) ** 0.5
