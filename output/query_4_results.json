@@ -1,0 +1,36 @@
+{
+  "query": "someone from blr good with ml",
+  "results": [
+    {
+      "actor_id": "arjun_menon",
+      "score": 0.4198,
+      "name": "Arjun Menon",
+      "headline": "Senior ML Engineer at Flipkart | Building recommendation systems at scale | IIT Bombay | Bangalore"
+    },
+    {
+      "actor_id": "karthik_raja",
+      "score": 0.3852,
+      "name": "Karthik Raja",
+      "headline": "Staff ML Engineer at Swiggy | Building food delivery optimization with AI | Bangalore"
+    },
+    {
+      "actor_id": "raj_kumar",
+      "score": 0.3605,
+      "name": "Raj Kumar",
+      "headline": "Senior ML Engineer at Netflix | Ex-Google Brain | PhD Stanford"
+    },
+    {
+      "actor_id": "priyanka_verma",
+      "score": 0.3572,
+      "name": "Priyanka Verma",
+      "headline": "ML Research Scientist at Microsoft Research India | NLP & Computer Vision | PhD IISc | Bangalore"
+    },
+    {
+      "actor_id": "snehanshu_saha",
+      "score": 0.3103,
+      "name": "Snehanshu Saha",
+      "headline": "Professor, Dept. of CSIS, BITS Goa and Head-Anuradha and Prashanth Palakurthi Centre for Artificial Intelligence Research (APPCAIR-All Campuses of BITS Pilani), Head-IKA (All Campuses of BITS Pilani); F-IETE"
+    }
+  ],
+  "search_type": "hybrid"
+}

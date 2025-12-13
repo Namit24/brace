@@ -1,0 +1,36 @@
+{
+  "query": "Find founders in San Francisco",
+  "results": [
+    {
+      "actor_id": "sarah_chen",
+      "score": 0.4282,
+      "name": "Sarah Chen",
+      "headline": "Co-Founder & CEO at CloudFlow AI | Ex-Stripe | Building the future of fintech infrastructure"
+    },
+    {
+      "actor_id": "anne_dwane",
+      "score": 0.3935,
+      "name": "Anne Dwane",
+      "headline": "Co-Founder & Partner at Village Global"
+    },
+    {
+      "actor_id": "mike_patel",
+      "score": 0.3732,
+      "name": "Mike Patel",
+      "headline": "Founder at HealthTech Innovations | YC S21 | Building AI-powered healthcare solutions"
+    },
+    {
+      "actor_id": "enrique_ferrao",
+      "score": 0.3632,
+      "name": "Enrique Ferrao",
+      "headline": "Co-Founder, CTO at Pipeshift (YC S24)"
+    },
+    {
+      "actor_id": "jessica_wong",
+      "score": 0.3584,
+      "name": "Jessica Wong",
+      "headline": "Co-Founder at EcoCommerce | Sustainable e-commerce platform | Forbes 30 Under 30"
+    }
+  ],
+  "search_type": "hybrid"
+}

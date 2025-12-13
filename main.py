@@ -31,36 +31,25 @@ def main():
     skip_ingest = "--skip-ingest" in args
     interactive = "--interactive" in args
 
-    # Extract query arguments (words that are not flags)
     query_args = [arg for arg in args if not arg.startswith("--")]
     custom_query = " ".join(query_args) if query_args else None
 
-    # ---------------------------
-    # Step 1: Ingest / Skip ingest
-    # ---------------------------
     if not skip_ingest:
         actors = load_actors()
-        if actors:
-            vectors = vectorize_actors(actors)
-            upload_vectors(vectors)
-        else:
-            print("No actors found to ingest.\n")
+        vectors = vectorize_actors(actors)
+        upload_vectors(vectors)
     else:
         print("=== SKIPPING INGESTION ===\n")
 
-    # ---------------------------
-    # Step 2: Create the Search Engine
-    # ---------------------------
     engine = SearchEngine()
 
-    # ---------------------------
-    # Step 3: Interactive CLI Mode
-    # ---------------------------
     if interactive:
-        return run_interactive_cli(engine)
-    if custom_query:
-        return engine.search_single_query(custom_query)
-    engine.process_csv()
+        run_interactive_cli(engine)
+    elif custom_query:
+        engine.search_single_query(custom_query)
+    else:
+        print("No query provided.")
+
 
 
 if __name__ == "__main__":

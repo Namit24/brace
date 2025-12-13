@@ -25,43 +25,43 @@ def load_actors() -> List[Actor]:
 def vectorize_actors(actors: List[Actor]) -> List[VectorRecord]:
     vectors: List[VectorRecord] = []
     print(f"Vectorizing {len(actors)} actors")
+
     for actor in tqdm(actors):
-        parts = [
+        profile_parts = [
             f"Name: {actor.profile.name}.",
             f"Headline: {actor.profile.headline or ''}.",
             f"Bio: {actor.profile.bio or ''}.",
             f"Location: {actor.profile.location or ''}.",
         ]
+
+        work_parts = []
         for job in actor.professional.workexperience:
-            parts.append(f"Role: {job.title} at {job.companyname}.")
-            if job.description:
-                parts.append(f"Details: {job.description}.")
+            work_parts.append(f"{job.title} at {job.companyname}. {job.description or ''}")
+
+        edu_parts = []
         for edu in actor.professional.education:
-            degree = edu.degree or ""
-            field = edu.fieldofstudy or ""
-            parts.append(f"Studied {degree} {field} at {edu.school}.")
-        text = " ".join(parts)
-        vec = None
-        for _ in range(3):
-            vec = get_embedding(text)
-            if vec:
-                break
-            time.sleep(1)
+            edu_parts.append(f"Studied {edu.degree or ''} {edu.fieldofstudy or ''} at {edu.school}.")
+
+        full_text = " ".join(profile_parts + work_parts + edu_parts)
+
+        vec = get_embedding(full_text)
         if not vec:
-            print(f"Failed to embed: {actor.profile.name}")
             continue
+
         vectors.append(
             VectorRecord(
                 id=actor.unique_id,
                 values=vec,
                 metadata={
                     "name": actor.profile.name,
-                    "headline": actor.profile.headline or "",
-                    "context": text[:1000],
+                    "education": " ".join(edu_parts),
+                    "context": full_text[:1000],
                 },
             )
         )
+
     return vectors
+
 
 
 def upload_vectors(vectors: List[VectorRecord]) -> None:

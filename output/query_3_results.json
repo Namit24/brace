@@ -1,0 +1,36 @@
+{
+  "query": "Marketing experts in fintech",
+  "results": [
+    {
+      "actor_id": "david_thompson",
+      "score": 0.5184,
+      "name": "David Thompson",
+      "headline": "Head of Marketing at Plaid | Fintech Marketing Expert | Ex-Stripe, Robinhood"
+    },
+    {
+      "actor_id": "priya_shah",
+      "score": 0.4966,
+      "name": "Priya Shah",
+      "headline": "Director of Growth Marketing at Chime | Fintech Growth Expert | Performance Marketing Specialist"
+    },
+    {
+      "actor_id": "alex_chen",
+      "score": 0.4699,
+      "name": "Alex Chen",
+      "headline": "VP Marketing at Brex | B2B Fintech Marketing Leader | Ex-Coinbase"
+    },
+    {
+      "actor_id": "fasna_feroz",
+      "score": 0.4018,
+      "name": "Fasna Feroz",
+      "headline": "Marketing Professional | Expert in Social Media Marketing, Google Analytics, and Email Marketing"
+    },
+    {
+      "actor_id": "anchit_jain_cfa",
+      "score": 0.3664,
+      "name": "Anchit Jain, CFA",
+      "headline": "Making Insurance Smarter, Cheaper & Decentralized | Fintech + Defi + AI | MBA, UC Berkeley | Ex-Goldman Sachs"
+    }
+  ],
+  "search_type": "hybrid"
+}

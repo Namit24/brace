@@ -1,149 +1,150 @@
 import json
 import os
-from typing import List, Dict, Any
+from typing import List, Dict
 
-import numpy as np
-from sklearn.metrics.pairwise import cosine_similarity
-
-from src.utils import get_embedding, get_pinecone_index
+from src.utils import get_embedding
 from src.config import Config
 from src.models import Actor
 from dotenv import load_dotenv
 load_dotenv()
 
 
-
 class SearchEngine:
     def __init__(self) -> None:
-        self.index = get_pinecone_index()
-        self.actors_cache = self._load_actors_cache()
-        self.allowed_ids = {a.unique_id for a in self.actors_cache}
-        self.namespace = Config.NAMESPACE
-        print(f"Loaded {len(self.actors_cache)} actors")
+        self.actors = self._load_actors()
+        print(f"Loaded {len(self.actors)} actors")
 
-    def _load_actors_cache(self) -> List[Actor]:
+    # -------------------------
+    # Data loading
+    # -------------------------
+    def _load_actors(self) -> List[Actor]:
         if not os.path.exists(Config.DATA_PATH):
             return []
-        try:
-            with open(Config.DATA_PATH, "r", encoding="utf-8") as f:
-                return [Actor.model_validate(x) for x in json.load(f)]
-        except:
-            return []
+        with open(Config.DATA_PATH, "r", encoding="utf-8") as f:
+            return [Actor.model_validate(x) for x in json.load(f)]
 
-    def _build_searchable_text(self, actor: Actor) -> str:
+    # -------------------------
+    # Query understanding
+    # -------------------------
+    def extract_constraints(self, query: str) -> Dict[str, str]:
+        q = query.lower()
+        constraints = {}
+
+        if "stanford" in q:
+            constraints["education_school"] = "stanford"
+
+        if "google" in q and "worked" in q:
+            constraints["company"] = "google"
+
+        if "san francisco" in q or "sf" in q:
+            constraints["location"] = "san francisco"
+
+        if "blr" in q or "bangalore" in q:
+            constraints["location"] = "bengaluru"
+
+        return constraints
+
+    # -------------------------
+    # Hard filtering
+    # -------------------------
+    def matches_constraints(self, actor: Actor, constraints: Dict[str, str]) -> bool:
+        # Education filter
+        if "education_school" in constraints:
+            found = False
+            for edu in actor.professional.education:
+                if constraints["education_school"] in edu.school.lower():
+                    found = True
+                    break
+            if not found:
+                return False
+
+        # Company filter
+        if "company" in constraints:
+            found = False
+            for job in actor.professional.workexperience:
+                if constraints["company"] in job.companyname.lower():
+                    found = True
+                    break
+            if not found:
+                return False
+
+        # Location filter
+        if "location" in constraints:
+            if constraints["location"] not in (actor.profile.location or "").lower():
+                return False
+
+        return True
+
+    # -------------------------
+    # Text used for ranking
+    # -------------------------
+    def build_search_text(self, actor: Actor) -> str:
         parts = [
             actor.profile.name,
             actor.profile.headline or "",
             actor.profile.bio or "",
             actor.profile.location or "",
         ]
+
         for job in actor.professional.workexperience:
-            parts.extend([job.title, job.companyname, job.description or ""])
+            parts.append(f"{job.title} at {job.companyname}")
+
         for edu in actor.professional.education:
-            parts.extend([edu.school, edu.fieldofstudy or ""])
-        return " ".join(parts).lower()
+            parts.append(f"Studied {edu.degree or ''} at {edu.school}")
 
-    def _keyword_filter(self, query: str) -> List[str]:
-        q = query.lower()
-        keywords = [
-            "google","tesla","apple","microsoft","netflix","amazon","flipkart","swiggy","meta",
-            "bangalore","blr","san francisco","sf","new york","nyc","london",
-            "founder","ceo","co-founder","cto","vp","director",
-            "ml","machine learning","ai","computer vision","nlp",
+        return " ".join(parts)
+
+    # -------------------------
+    # Search entry point
+    # -------------------------
+    def search_single_query(self, query: str, top_k: int = 5):
+        print(f"\nSearching for: '{query}'\n")
+
+        constraints = self.extract_constraints(query)
+
+        # Step 1: Hard filter
+        candidates = [
+            actor for actor in self.actors
+            if self.matches_constraints(actor, constraints)
         ]
-        active = [k for k in keywords if k in q]
-        if not active:
+
+        if not candidates:
+            print("No results after applying constraints.\n")
             return []
-        candidates = []
-        for actor in self.actors_cache:
-            txt = self._build_searchable_text(actor)
-            if any(k in txt for k in active):
-                candidates.append(actor.unique_id)
-        return candidates
 
-    def _semantic_only(self, query_vec, top_k):
-        results = self.index.query(
-            vector=query_vec,
-            top_k=top_k,
-            include_metadata=True,
-            namespace=self.namespace,
-        )
-        final = []
-        for m in results.matches:
-            if m.id in self.allowed_ids:
-                final.append(
-                    {
-                        "actor_id": m.id,
-                        "score": round(m.score, 4),
-                        "name": m.metadata.get("name", ""),
-                        "headline": m.metadata.get("headline", ""),
-                    }
-                )
-        return final
-
-    def hybrid_search(self, query: str, top_k: int = 5) -> List[Dict[str, Any]]:
-        vec = get_embedding(query)
-        if not vec:
+        # Step 2: Embed query
+        query_vec = get_embedding(query)
+        if not query_vec:
+            print("Failed to embed query.")
             return []
-        candidate_ids = self._keyword_filter(query)
-        if candidate_ids:
-            try:
-                resp = self.index.fetch(ids=candidate_ids, namespace=self.namespace)
-                ids, vectors, metas = [], [], []
-                for vid, v in resp.vectors.items():
-                    if vid in self.allowed_ids:
-                        ids.append(vid)
-                        vectors.append(v.values)
-                        metas.append(v.metadata)
-                if vectors:
-                    scores = cosine_similarity([vec], vectors)[0]
-                    order = np.argsort(scores)[::-1][:top_k]
-                    out = []
-                    for idx in order:
-                        out.append(
-                            {
-                                "actor_id": ids[idx],
-                                "score": round(float(scores[idx]), 4),
-                                "name": metas[idx].get("name", ""),
-                                "headline": metas[idx].get("headline", ""),
-                            }
-                        )
-                    if out:
-                        return out
-            except:
-                pass
-        return self._semantic_only(vec, top_k)
 
-    def search_single_query(self, query: str) -> None:
-        print(f"\nSearching for: '{query}'")
-        results = self.hybrid_search(query)
-        print("\n--- Results ---")
-        for i, r in enumerate(results):
-            print(f"{i+1}. {r['name']} (Score: {r['score']})")
-            print(f"   {r['headline'][:100]}...")
+        # Step 3: Rank candidates
+        scored = []
+        for actor in candidates:
+            text = self.build_search_text(actor)
+            vec = get_embedding(text)
+            if not vec:
+                continue
+
+            score = self.cosine_similarity(query_vec, vec)
+            scored.append((actor, score))
+
+        scored.sort(key=lambda x: x[1], reverse=True)
+        results = scored[:top_k]
+
+        # Output
+        for i, (actor, score) in enumerate(results, 1):
+            print(f"{i}. {actor.profile.name} (Score: {score:.4f})")
+            print(f"   {actor.profile.headline}")
             print("-" * 40)
-        out = {"query": query, "results": results, "search_type": "hybrid"}
-        Config.OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
-        path = Config.OUTPUT_DIR / "cli_result.json"
-        with open(path, "w", encoding="utf-8") as f:
-            json.dump(out, f, indent=2)
-        print(f"\nSaved to {path}")
 
-    def process_csv(self) -> None:
-        if not Config.QUERIES_PATH.exists():
-            print(f"Queries CSV not found at {Config.QUERIES_PATH}")
-            return
-        with open(Config.QUERIES_PATH, "r", encoding="utf-8") as f:
-            lines = [x.strip() for x in f.readlines() if x.strip()]
-        if lines and lines[0].lower() == "queries":
-            lines = lines[1:]
-        Config.OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
-        print(f"Processing {len(lines)} queries")
-        for i, q in enumerate(lines):
-            print(f"\n--- Query {i+1}: '{q}' ---")
-            res = self.hybrid_search(q)
-            out = {"query": q, "results": res, "search_type": "hybrid"}
-            path = Config.OUTPUT_DIR / f"query_{i+1}_results.json"
-            with open(path, "w", encoding="utf-8") as f:
-                json.dump(out, f, indent=2)
-            print(f"Saved: {path.name}")
+        return results
+
+    # -------------------------
+    # Utils
+    # -------------------------
+    def cosine_similarity(self, a: List[float], b: List[float]) -> float:
+        dot = sum(x * y for x, y in zip(a, b))
+        norm_a = sum(x * x for x in a) ** 0.5
+        norm_b = sum(y * y for y in b) ** 0.5
+        return dot / (norm_a * norm_b + 1e-8)
