@@ -1,0 +1,2302 @@
+{
+  "davidthompson-fintech": {
+    "actor_id": "davidthompson-fintech",
+    "name": "David Thompson",
+    "headline": "Head of Marketing at Plaid | Fintech Marketing Expert | Ex-Stripe, Robinhood",
+    "location": "San Francisco, California, United States",
+    "bio": "Marketing leader specializing in fintech growth. Over 10 years experience building and scaling marketing teams at high-growth fintech companies. Led marketing at Robinhood during hypergrowth from 3M to 15M users. Currently Head of Marketing at Plaid, where I oversee brand, demand gen, product marketing, and growth. Expert in B2B fintech marketing, developer marketing, and building category-defining brands. Frequent speaker at fintech and marketing conferences. Love helping fintech startups with their go-to-market strategy.",
+    "education": [
+      "Northwestern University - Kellogg School of Management",
+      "University of Pennsylvania"
+    ],
+    "companies": [
+      "Stripe",
+      "Robinhood",
+      "Plaid",
+      "Square"
+    ],
+    "current_role": "Head of Marketing at Plaid"
+  },
+  "priyashah-fintechmarketing": {
+    "actor_id": "priyashah-fintechmarketing",
+    "name": "Priya Shah",
+    "headline": "Director of Growth Marketing at Chime | Fintech Growth Expert | Performance Marketing Specialist",
+    "location": "San Francisco, California, United States",
+    "bio": "Growth marketing leader with deep expertise in fintech customer acquisition and retention. Currently Director of Growth Marketing at Chime, where I lead paid acquisition, lifecycle marketing, and growth analytics. Previously built growth marketing functions at PayPal and Venmo. Expert in performance marketing, data-driven growth strategies, and fintech user acquisition. Track record of scaling fintech products to millions of users through innovative marketing campaigns. Passionate about financial inclusion and using marketing to make financial services more accessible.",
+    "education": [
+      "Columbia Business School",
+      "University of Michigan"
+    ],
+    "companies": [
+      "American Express",
+      "Venmo",
+      "PayPal",
+      "Chime"
+    ],
+    "current_role": "Director of Growth Marketing at Chime"
+  },
+  "alexchen-b2bfintech": {
+    "actor_id": "alexchen-b2bfintech",
+    "name": "Alex Chen",
+    "headline": "VP Marketing at Brex | B2B Fintech Marketing Leader | Ex-Coinbase",
+    "location": "San Francisco, California, United States",
+    "bio": "B2B marketing executive specializing in fintech and enterprise software. Currently VP of Marketing at Brex, leading marketing for our corporate card and expense management platform. Previously at Coinbase, where I built the B2B marketing function and launched Coinbase Prime for institutional clients. Expert in enterprise fintech marketing, demand generation, and product launches. Deep understanding of complex B2B buying cycles in financial services. Passionate about building brands that CFOs and finance teams trust.",
+    "education": [
+      "Harvard Business School",
+      "UC Berkeley"
+    ],
+    "companies": [
+      "Coinbase",
+      "Affirm",
+      "Brex"
+    ],
+    "current_role": "VP of Marketing at Brex"
+  },
+  "arjunmenon-ml-blr": {
+    "actor_id": "arjunmenon-ml-blr",
+    "name": "Arjun Menon",
+    "headline": "Senior ML Engineer at Flipkart | Building recommendation systems at scale | IIT Bombay | Bangalore",
+    "location": "Bengaluru, Karnataka, India",
+    "bio": "Machine learning engineer based in Bangalore with 6 years of experience building production ML systems. Currently at Flipkart, leading the ML team for personalization and recommendations that serve 300M+ users. Previously worked at Ola on demand prediction and routing algorithms. Strong background in deep learning, NLP, and large-scale distributed systems. Published research at AAAI and ICML. Passionate about applying ML to solve real-world problems in Indian market context. Active in Bangalore ML community and regularly speak at local tech meetups.",
+    "education": [
+      "IIT Bombay"
+    ],
+    "companies": [
+      "Flipkart",
+      "Amazon",
+      "Ola"
+    ],
+    "current_role": "Senior Machine Learning Engineer at Flipkart"
+  },
+  "priyankaverma-mlops": {
+    "actor_id": "priyankaverma-mlops",
+    "name": "Priyanka Verma",
+    "headline": "ML Research Scientist at Microsoft Research India | NLP & Computer Vision | PhD IISc | Bangalore",
+    "location": "Bengaluru, Karnataka, India",
+    "bio": "ML researcher passionate about advancing AI capabilities in low-resource settings. Currently Research Scientist at Microsoft Research India in Bangalore, working on multilingual NLP and computer vision for Indian languages. Completed PhD from IISc Bangalore on neural machine translation. Published 15+ papers at top ML conferences including NeurIPS, ACL, and CVPR. Core expertise in transformer models, multimodal learning, and efficient ML for edge devices. Active contributor to open-source ML projects and mentor for aspiring ML researchers in India.",
+    "education": [
+      "Indian Institute of Science (IISc)",
+      "IIT Delhi",
+      "BITS Pilani"
+    ],
+    "companies": [
+      "Google Research",
+      "Amazon",
+      "Microsoft Research India"
+    ],
+    "current_role": "Research Scientist at Microsoft Research India"
+  },
+  "karthikraja-mleng": {
+    "actor_id": "karthikraja-mleng",
+    "name": "Karthik Raja",
+    "headline": "Staff ML Engineer at Swiggy | Building food delivery optimization with AI | Bangalore",
+    "location": "Bengaluru, Karnataka, India",
+    "bio": "ML engineer specializing in optimization and reinforcement learning. Based in Bangalore and currently Staff ML Engineer at Swiggy, where I lead ML efforts for delivery optimization, routing, and demand forecasting. Built systems that optimize delivery routes for millions of orders daily. Expert in reinforcement learning, operations research, and large-scale ML systems. Previously at Uber working on similar problems. Love solving complex optimization problems using ML. Active mentor in Bangalore's ML community and conduct workshops on applied machine learning.",
+    "education": [
+      "IIT Madras",
+      "Anna University"
+    ],
+    "companies": [
+      "Swiggy",
+      "Flipkart",
+      "Uber"
+    ],
+    "current_role": "Staff Machine Learning Engineer at Swiggy"
+  },
+  "robertjohnson-cvmentor": {
+    "actor_id": "robertjohnson-cvmentor",
+    "name": "Robert Johnson",
+    "headline": "Computer Vision Expert | Ex-Tesla Autopilot | Startup Advisor | Helping founders build vision AI products",
+    "location": "Palo Alto, California, United States",
+    "bio": "Computer vision engineer and startup advisor with 12+ years experience building production vision systems. Spent 5 years at Tesla leading teams that developed Autopilot's perception stack. Previously at Apple working on Face ID. Now advising 10+ startups on computer vision strategy and helping founders navigate the journey from research to product. Deep expertise in object detection, 3D vision, edge AI, and vision transformers. Active angel investor in vision AI startups. Love mentoring technical founders and helping them avoid the mistakes I made. Based in Bay Area but mentor founders globally.",
+    "education": [
+      "Carnegie Mellon University",
+      "MIT"
+    ],
+    "companies": [
+      "Self-employed",
+      "Tesla",
+      "Apple",
+      "NVIDIA"
+    ],
+    "current_role": "Independent Computer Vision Consultant & Startup Advisor at Self-employed"
+  },
+  "linachen-visionai": {
+    "actor_id": "linachen-visionai",
+    "name": "Lina Chen",
+    "headline": "Co-Founder at VisionAI Labs (acq. by Microsoft) | Computer Vision Mentor | Angel Investor",
+    "location": "San Francisco, California, United States",
+    "bio": "Serial entrepreneur in computer vision space. Co-founded VisionAI Labs in 2018, grew it to 50 employees, and sold to Microsoft in 2022. We built ML-powered visual inspection systems for manufacturing. Before that, led CV engineering at Waymo. Now spending time mentoring founders building vision-based products and making angel investments. Have been through the entire startup journey from 0 to exit and love sharing lessons learned. Particularly passionate about helping founders in robotics, autonomous systems, and industrial AI. Strong believer in combining deep tech with real market needs.",
+    "education": [
+      "Stanford University",
+      "Tsinghua University"
+    ],
+    "companies": [
+      "Self-employed",
+      "Google Research",
+      "VisionAI Labs",
+      "Waymo"
+    ],
+    "current_role": "Startup Advisor & Angel Investor at Self-employed"
+  },
+  "rajkumar-ml": {
+    "actor_id": "rajkumar-ml",
+    "name": "Raj Kumar",
+    "headline": "Senior ML Engineer at Netflix | Ex-Google Brain | PhD Stanford",
+    "location": "Los Gatos, California, United States",
+    "bio": "Machine learning engineer with 8 years of experience building production ML systems at scale. Spent 5 years at Google Brain working on foundational models and recommendation systems that served billions of users. Now at Netflix, leading the ML team for personalization algorithms. Published 12 papers at top ML conferences (NeurIPS, ICML, ICLR). Passionate about making ML more accessible and love mentoring junior engineers. Stanford PhD in Machine Learning.",
+    "education": [
+      "Stanford University",
+      "IIT Delhi"
+    ],
+    "companies": [
+      "Netflix",
+      "Google"
+    ],
+    "current_role": "Senior Machine Learning Engineer at Netflix"
+  },
+  "emilyrodriguez-ux": {
+    "actor_id": "emilyrodriguez-ux",
+    "name": "Emily Rodriguez",
+    "headline": "Principal UX Designer at Adobe | Ex-Google | Design Systems Expert",
+    "location": "San Jose, California, United States",
+    "bio": "UX designer passionate about creating delightful user experiences. Spent 6 years at Google leading design for Search and Chrome, touching products used by billions daily. Now at Adobe, building next-gen design tools for creative professionals. Expert in design systems, accessibility, and user research. Speaker at various design conferences and mentor to aspiring designers. Believe great design should be invisible yet impactful.",
+    "education": [
+      "Carnegie Mellon University",
+      "University of California, Berkeley"
+    ],
+    "companies": [
+      "Adobe",
+      "Airbnb",
+      "Google"
+    ],
+    "current_role": "Principal UX Designer at Adobe"
+  },
+  "sarahchen-sf": {
+    "actor_id": "sarahchen-sf",
+    "name": "Sarah Chen",
+    "headline": "Co-Founder & CEO at CloudFlow AI | Ex-Stripe | Building the future of fintech infrastructure",
+    "location": "San Francisco, California, United States",
+    "bio": "I'm a serial entrepreneur passionate about building products that solve real problems. After spending 5 years at Stripe building payment infrastructure, I founded CloudFlow AI to help businesses automate their financial operations using AI. We're a team of 15 based in San Francisco, backed by Y Combinator and Sequoia Capital. Previously co-founded DataViz Labs (acquired by Salesforce in 2019). I love mentoring early-stage founders and frequently speak at startup events about scaling SaaS products and fundraising.",
+    "education": [
+      "Stanford University",
+      "UC Berkeley"
+    ],
+    "companies": [
+      "Stripe",
+      "Facebook",
+      "DataViz Labs",
+      "CloudFlow AI"
+    ],
+    "current_role": "Co-Founder & CEO at CloudFlow AI"
+  },
+  "mikepatel-founder": {
+    "actor_id": "mikepatel-founder",
+    "name": "Mike Patel",
+    "headline": "Founder at HealthTech Innovations | YC S21 | Building AI-powered healthcare solutions",
+    "location": "San Francisco Bay Area",
+    "bio": "Healthcare entrepreneur on a mission to make quality healthcare accessible to everyone. Founded HealthTech Innovations in 2021 to leverage AI for early disease detection. We've helped over 100,000 patients get faster diagnoses. Prior to this, I spent 7 years in product at Google Health. Based in San Francisco, actively involved in the SF startup ecosystem as an advisor and angel investor in 12 early-stage companies. Love connecting with fellow founders and sharing lessons learned from building in regulated industries.",
+    "education": [
+      "Stanford University",
+      "MIT"
+    ],
+    "companies": [
+      "HealthTech Innovations",
+      "Google"
+    ],
+    "current_role": "Founder & CEO at HealthTech Innovations"
+  },
+  "jessicawong-sf": {
+    "actor_id": "jessicawong-sf",
+    "name": "Jessica Wong",
+    "headline": "Co-Founder at EcoCommerce | Sustainable e-commerce platform | Forbes 30 Under 30",
+    "location": "San Francisco, California, United States",
+    "bio": "Passionate about sustainability and technology. Co-founded EcoCommerce to help brands reduce their carbon footprint while growing online sales. We're building the shopify for sustainable commerce. Our platform is used by 500+ eco-conscious brands and has helped offset 10M tons of CO2. Forbes 30 Under 30 2023. Previously worked in growth at Airbnb and started my career at McKinsey. SF native and active in the climate tech community here. Always happy to chat with founders working on climate solutions.",
+    "education": [
+      "Stanford University"
+    ],
+    "companies": [
+      "Airbnb",
+      "McKinsey & Company",
+      "EcoCommerce"
+    ],
+    "current_role": "Co-Founder & Chief Growth Officer at EcoCommerce"
+  },
+  "muthusanjay": {
+    "actor_id": "muthusanjay",
+    "name": "Muthu Sanjay P",
+    "headline": "Summer Intern @Godrej Properties | Interned at PMO's New India Internship | Pre-Final Year at IIT Madras",
+    "location": "Chennai, Tamil Nadu, India",
+    "bio": "I am currently pursuing an undergrad in Civil Engineering at the Indian Institute of Technology, Madras which is ranked #1 by NIRF.\n\nCivil engineering is a professional engineering discipline that deals with the design, construction, and maintenance of the physical and naturally built environment, including public works such as roads, bridges, canals, dams, airports, sewage systems, pipelines, structural components of buildings, and railways.\n\nI am curious, ambivert, and hardworking, and I would love to explore various exciting domains and paths in my life. Traveling is something I do very little but love to do, it teaches us a lot and makes us aware. Singing is my passion and I would love to pursue it in the future, too. Though I find it difficult, I love to go out and connect with many people. Life has much to give and I want to grab them all.",
+    "education": [
+      "Indian Institute of Technology, Madras",
+      "Kendriya vidyalaya ",
+      "AAKASH INSTITUTE"
+    ],
+    "companies": [
+      "iGEM IIT Madras ",
+      "Indian Institute of Technology, Madras",
+      "Godrej Properties Limited",
+      "E-Cell IIT Madras"
+    ],
+    "current_role": "Operations Intern at Godrej Properties Limited"
+  },
+  "gayathri-meka-04270666": {
+    "actor_id": "gayathri-meka-04270666",
+    "name": "Gayathri Meka",
+    "headline": "Building HyperVerge Academy | Bridging Skill & Network Gap",
+    "location": "Bengaluru, Karnataka, India",
+    "bio": "I am deeply committed towards creating a positive, meaningful impact in the lives of people. Each of my past experiences has led me to where I am today. I love doing what I do and I'm grateful to be in a position where I can do this. I run HyperVerge Academy, a program that upskills young people from under-resourced communities through volunteer mentors and enable them to get a well paying job in the tech sector. I was born and brought up in Hyderabad, did my undergrad in Chennai and currently work in Bangalore. I live with my husband and two of my closest friends from college. I love spending time with loved ones, enjoy travelling, trekking and eating homemade Andhra food.",
+    "education": [
+      "Indian Institute of Technology, Madras",
+      "Technical University Munich"
+    ],
+    "companies": [
+      "MyAlly.ai (formerly Skedool.it)",
+      "Goldman Sachs",
+      "Foundation for Democratic Reforms",
+      "HyperVerge Inc.",
+      "HyperVerge Academy",
+      "Xerox Research Centre India"
+    ],
+    "current_role": "Team Leader at HyperVerge Academy"
+  },
+  "shamrozshahid": {
+    "actor_id": "shamrozshahid",
+    "name": "Shamroz Shahid",
+    "headline": "Data driven Marketing | Information Technology | Data Analytics | Transforming and evolving",
+    "location": "France",
+    "bio": "Master's in Marketing and Brand Management from Kedge Business School with 2 years of working experience in Fortune 500 IT company (TCS) having Strong technical background coupled with overall business knowledge and contemporary Information Technology skills. \nI wish to work in a growth oriented organization where I can utilize my inborn & acquired skills & capabilities towards the achievement of organizational goals with personal satisfaction.",
+    "education": [
+      "KEDGE Business School",
+      "Jamia Hamdard",
+      "New Horizon School"
+    ],
+    "companies": [
+      "CSI Jamia Hamdard Student Branch",
+      "The Origin NGO",
+      "Opsealog",
+      "Tata Consultancy Services",
+      "KEDGE Business School",
+      "HCL Technologies"
+    ],
+    "current_role": ""
+  },
+  "aakila-rajan-280995145": {
+    "actor_id": "aakila-rajan-280995145",
+    "name": "Aakila Rajan",
+    "headline": "Caltech PhD | IIT Madras | Meta",
+    "location": "Pasadena, California, United States",
+    "bio": "I am Aakila, a Ph.D. Candidate in the Mechanical & Civil Engineering Department at the California Institute of Technology (Caltech). My research focuses on mechanics of materials, exploring topics such as multiscale modeling, the integration of machine learning in mechanics, optimization techniques, and soft materials. Through my work, I aim to advance the understanding and application of these areas in both academic and industry settings.",
+    "education": [
+      "Caltech",
+      "Indian Institute of Technology, Madras",
+      "St.Columba's School, New Delhi"
+    ],
+    "companies": [
+      "Meta",
+      "Indian Institute of Technology, Madras",
+      "TU Dortmund University"
+    ],
+    "current_role": ""
+  },
+  "ramya-k-95085598": {
+    "actor_id": "ramya-k-95085598",
+    "name": "Ramya K",
+    "headline": "Structural Engineer",
+    "location": "Greater Chennai Area",
+    "bio": "",
+    "education": [
+      "Annamalai University",
+      "Periyar Maniammai University"
+    ],
+    "companies": [
+      "Unison Engineering & Construction"
+    ],
+    "current_role": "Project Engineer at Unison Engineering & Construction"
+  },
+  "awanishshukla12": {
+    "actor_id": "awanishshukla12",
+    "name": "Awanish Shukla",
+    "headline": "Counselor and Evaluator at VAID'S ICS",
+    "location": "South Delhi, Delhi, India",
+    "bio": "I have wholeheartedly adopted Steve Jobs' wisdom that \"Innovation is the hallmark of a leader, setting them apart from mere followers.\" Within this ethos, I've taken the helm of the University E-cell and spearheaded the editorial team of the Electrical Engineering Department magazine.",
+    "education": [
+      "Jamia Millia Islamia",
+      "Jamia Millia Islamia",
+      "Dayawanti Punj Model School",
+      "Maharshi Patanjali Vidya Mandir"
+    ],
+    "companies": [
+      "Center for Innovation and Entrepreneurship",
+      "IEEE Jmi",
+      "Department of Electrical Enginnering ",
+      "TEKKNOCRAZIA",
+      "Centre For Innovation and Entrepreneurship",
+      "IEEE JMI",
+      "VAID'S ICS",
+      "PW (PhysicsWallah)",
+      "civil services examination"
+    ],
+    "current_role": "Content Developer and Copy Evaluator (Freelance) at PW (PhysicsWallah)"
+  },
+  "swapnil-bhat-470799147": {
+    "actor_id": "swapnil-bhat-470799147",
+    "name": "Swapnil Bhat",
+    "headline": "AI | Robotics | Researcher | Ex-ISRO Scientist | IIT Bombay",
+    "location": "Mumbai, Maharashtra, India",
+    "bio": "",
+    "education": [
+      "Indian Institute of Technology, Bombay",
+      "Indian Institute of Technology, Bombay",
+      "Delhi Public School - India"
+    ],
+    "companies": [
+      "Hyperloop IITB",
+      "GE Aerospace",
+      "ISRO - Indian Space Research Organization",
+      "Miko"
+    ],
+    "current_role": "AI Researcher at Miko"
+  },
+  "maitreyee-shilpa-kishor": {
+    "actor_id": "maitreyee-shilpa-kishor",
+    "name": "Maitreyee Shilpa Kishor",
+    "headline": "Juris Doctor Candidate | Paralegal",
+    "location": "Melbourne, Victoria, Australia",
+    "bio": null,
+    "education": [
+      "University of Melbourne",
+      "Sciences Po",
+      "St. Xavier's College"
+    ],
+    "companies": [
+      "King & Wood Mallesons",
+      "Baker McKenzie",
+      "Institute for Defence Studies and Analyses",
+      "Syracuse University - Maxwell School",
+      "GeoQuant",
+      "Sciences Po",
+      "Melbourne Journal of International Law",
+      "Ashoka University",
+      "Fitzroy Legal Service",
+      "Carter Newell Lawyers"
+    ],
+    "current_role": "Solicitations Coordinator at Melbourne Journal of International Law"
+  },
+  "mohnishquraishi": {
+    "actor_id": "mohnishquraishi",
+    "name": "Mohnish Quraishi",
+    "headline": "Civil Engineer & Project Manager | 7+ Years experience",
+    "location": "New Delhi, Delhi, India",
+    "bio": "Seasoned project manager(civil) having degree and diploma in civil engineering and Perusing MBA from JMI with 7 years of experience.",
+    "education": [
+      "Jamia Millia Islamia (JMI), Delhi",
+      "Delhi Institute Of Engineering & Technology",
+      "Jamia Millia Islamia"
+    ],
+    "companies": [
+      "BEL (RKEC) ",
+      "Nikon infrastructure",
+      "Delhi Metro Rail Corporation (Dmrc)",
+      "Global Builders & General Order Suppliers",
+      "Awasti Construction Co"
+    ],
+    "current_role": "Project Manager at BEL (RKEC) "
+  },
+  "dr-mahesh-subhash-patlapati-a4a72a56": {
+    "actor_id": "dr-mahesh-subhash-patlapati-a4a72a56",
+    "name": "Dr Mahesh Subhash Patlapati",
+    "headline": "joint commissioner GoI and Director CEAH- Bengaluru  at Govt. of India",
+    "location": "Bangalore Rural, Karnataka, India",
+    "bio": "Management professional,  public speaker at National and International arenas. nearly 30 years of experience. represented India at USDA, USA & VIV Europe. proudly working at Govt of India as Joint commissioner and Director at CPDO& TI BENGALURU. my work is dedicated to building our Nation with Protein sector ie Poultry. My passion is inspiring minds to build their dreams.",
+    "education": [
+      "Indian Institute of Management Bangalore",
+      "college of veterinary science Hebbal Bengaluru ",
+      "Govt science College Chitradurga karnataka "
+    ],
+    "companies": [
+      "Venkateshwara Hatcheries Private Limited",
+      "Centre of Excellence for Animal Husbandry- CEAH - Bengaluru",
+      "Govt Of Karnataka Depth of AHVS",
+      "CPDO & TI",
+      "Govt. of India",
+      "Southern Regional Disease Diagnostic Laboratory ",
+      "Central Poultry Development Organization and Training Institute CPDOTI "
+    ],
+    "current_role": "Joint commissioner GoI and Director  at Centre of Excellence for Animal Husbandry- CEAH - Bengaluru"
+  },
+  "kranthi-kireet-8a4660172": {
+    "actor_id": "kranthi-kireet-8a4660172",
+    "name": "Kranthi Kireet",
+    "headline": "Finance Data Analyst - Apollo 24|7",
+    "location": "New Delhi, Delhi, India",
+    "bio": "Experienced Coordinator with a demonstrated history of working in the entertainment industry. Skilled in Policy Analysis, Politics, Public Speaking, Social Media, and Teamwork. Strong professional with a BTech - Bachelor of Technology focused in Civil Engineering from Indian Institute of Technology, Madras. ",
+    "education": [
+      "Indian Institute of Technology, Madras"
+    ],
+    "companies": [
+      "Civil Engineering Association, IIT Madras",
+      "Saarang",
+      "Shaastra, IIT Madras",
+      "Abhiyaan",
+      "Apollo 24|7"
+    ],
+    "current_role": ""
+  },
+  "abhishek-kumar-87552120b": {
+    "actor_id": "abhishek-kumar-87552120b",
+    "name": "Abhishek Kumar",
+    "headline": "IIT Madras | Charpak Scholar (French Govt.) | Invention Factory\u201924 Winner | Dual Patent Holder (India & US) | Innovator in Tech-Driven Solutions",
+    "location": "Bokaro Steel City, India",
+    "bio": null,
+    "education": [
+      "Indian Institute of Technology, Madras",
+      "Universit\u00e9 Paris-Saclay",
+      "Reliable Institute, Kota",
+      "Resonance Eduventures Limited",
+      "Guru Gobind Singh Public School, Bokaro"
+    ],
+    "companies": [
+      "United Nations Academic Impact Aspire TKMCE | UNAI ASPIRE TKMCE",
+      "Casio India",
+      "IIT MADRAS ALUMNI ASSOCIATION",
+      "Avanti Fellows",
+      "Climate Change AI",
+      "Maker Bhavan Foundation",
+      "IITM TV",
+      "Levitation Marketing",
+      "Steel Authority of India Limited",
+      "Nation with NaMo"
+    ],
+    "current_role": "Summer Associate at Nation with NaMo"
+  },
+  "javed-khan-b259a2a9": {
+    "actor_id": "javed-khan-b259a2a9",
+    "name": "Javed Khan",
+    "headline": "Data Engineer",
+    "location": "Frankfurt, Hesse, Germany",
+    "bio": "My career objective is to work with an esteemed organization on challenging and interesting projects with the use of latest technology. A job that gives me opportunities to learn, innovate and enhance my skills and strengths in conjunction with company goals to make the Project Profitable with the help of my knowledge, skills and abilities",
+    "education": [
+      "Frankfurt University of Applied Sciences",
+      "Jamia Hamdard",
+      "Dev Samaj Modern School"
+    ],
+    "companies": [
+      "Heraeus Electronics",
+      "National Informatics Centre, Govt of India",
+      "Merck KGaA, Darmstadt, Germany",
+      "Heraeus"
+    ],
+    "current_role": "Junior Data Engineer at Heraeus"
+  },
+  "mbohanes": {
+    "actor_id": "mbohanes",
+    "name": "Michal Bohanes",
+    "headline": "CEO & Founder at Alpha Lead Academy. We help B2B service businesses who Depend On Referrals build their first sales system.",
+    "location": "Vienna, Vienna, Austria",
+    "bio": "This is the journey of a Solo B2B Consultant reaching $500k revenue / year\n(or a partnership reaching $500k per partner): \ud83d\udc47\n\n$\ud835\udfce \u2192 \ud835\udfcf\ud835\udfce\ud835\udfce\ud835\udc24: Sell something to someone, mainly by getting the basics right \n$\ud835\udfcf\ud835\udfce\ud835\udfce \u2192 \ud835\udfd0\ud835\udfd3\ud835\udfce\ud835\udc24: Can be reached on reputation & referrals alone. Alternatively: Building basic client acquisition systems: Some outbound, regular content\n$\ud835\udfd0\ud835\udfd3\ud835\udfce \u2192 \ud835\udfd3\ud835\udfce\ud835\udfce\ud835\udc24: Solidifying & outsourcing client acquisition systems & narrowing down Offer and Client Persona (more scalable)\n$\ud835\udfd3\ud835\udfce\ud835\udfce\ud835\udc24 \u2192 \ud835\udfcf\ud835\udc26*: \u2026\n\nThis is the journey we take our clients on. Wherever you are, we help you get to the next level. \n\n\ud83c\udfed \ud835\udc16\ud835\udc07\ud835\udc00\ud835\udc13 \ud835\udc16\ud835\udc04 \ud835\udc03\ud835\udc0e and \ud83d\udc68 \ud835\udc16\ud835\udc07\ud835\udc0e \ud835\udc16\ud835\udc04 \ud835\udc12\ud835\udc04\ud835\udc11\ud835\udc15\ud835\udc04 \ud83d\udc69\nWe work with small Consulting firms and B2B Solopreneurs.\nWe help them \n\u2705 build client acquisition systems\n\u2705 stop depending on referrals\n\u2705 reach $500k revenue per year (per person, if it\u2019s a partnership)\n\nWe have worked with over 100 clients. \nAnd every single one of them who followed our playbook \n\u2026got at least a 300% ROI within six months (many got way more than that)\n\n\ud83e\udd42 \ud835\udc11\ud835\udc04\ud835\udc12\ud835\udc14\ud835\udc0b\ud835\udc13\ud835\udc12 \n\ud835\udc03\ud835\udc1a\ud835\udc27\ud835\udc1a \ud835\udc07\ud835\udc1e\ud835\udc2b\ud835\udc2b\ud835\udc1a - from employee to marketing agency owner - closed her first $4k client within 6 weeks\n\"That clarity I got in our first session was worth the entire investment\"\n\ud835\udc0b\ud835\udc22\ud835\udc33 \ud835\udc03\ud835\udc28\ud835\udc2d\ud835\udc1e\ud835\udc27 - closed her first $5k coaching client (who paid on the call) within 5 days of working with us \n\u201cI can\u2019t believe what just happened, happened!\u201d\n\ud835\udc13\ud835\udc28\ud835\udc27\ud835\udc32 \ud835\udc16\ud835\udc22\ud835\udc25\ud835\udc2c\ud835\udc28\ud835\udc27 - did the work and signed his first $5k/month retainer client via outbound within 2 months\n\ud835\udc09\ud835\udc1a\ud835\udc2c\ud835\udc28\ud835\udc27 \ud835\udc0a\ud835\udc2e - grew his 15-people B2B startup by 50% within a year\n\ud835\udc0b\ud835\udc22\ud835\udc27\ud835\udc1a \ud835\udc04\ud835\udc2b\ud835\udc1e\ud835\udc33 - almost doubled her design agency revenue within 6 months\n\nMany more on: www.alphaleadacademy.com (scroll down to the Testimonials section)\n\n\ud83e\uddea \ud835\udc07\ud835\udc0e\ud835\udc16 \ud835\udc03\ud835\udc0e \ud835\udc16\ud835\udc04 \ud835\udc03\ud835\udc0e \ud835\udc08\ud835\udc13?\nWe help you implement a set of proven systems, inbound & outbound (no ads!) \n\u2026where you just do the work to book calls with ideal prospects (and close them)\n\nBest part - we work on a pay-on-results basis, so if you don\u2019t make money, we don\u2019t make money. \nThe risk is 100% on our end, so we\u2019re on the hook to get you the results \ud83d\ude2c.\n\nCurious how that works and how on EARTH we could be making such a crazy offer? \nGo to www.alphaleadacademy.com (sorry, you\u2019ll have to copy-paste this one)\n\nI see you over there!\nMuch love\nMichal\n\n\n\n*) $\ud835\udfd3\ud835\udfce\ud835\udfce\ud835\udc24 \u2192 \ud835\udfcf\ud835\udc26: Adding volume in outreach, going cross-platform in content, adding leverage in sales and delivery (sales person, offshore team, and/or course components)\n[Working hypothesis - we\u2019re on this journey right now]",
+    "education": [
+      "London Business School",
+      "Stockholm University",
+      "Universit\u00e4t Wien",
+      "HIB Saalfelden"
+    ],
+    "companies": [
+      "Skimlinks",
+      "Alpha Lead Academy",
+      "Dinnr",
+      "Teespring",
+      "Booz Allen Hamilton",
+      "Mindshare",
+      "Forbes",
+      "Google",
+      "Center for International Environmental Law (CIEL)"
+    ],
+    "current_role": "Founder and CEO at Alpha Lead Academy"
+  },
+  "nicholas-reppas": {
+    "actor_id": "nicholas-reppas",
+    "name": "Nicholas Reppas",
+    "headline": "Global Product Manager Hydrogen | Passionate about Clean Tech and Business Development",
+    "location": "Switzerland",
+    "bio": null,
+    "education": [
+      "Bologna Business School",
+      "ZHAW Zurich University of Applied Sciences",
+      "University of Applied Sciences and Arts Northwestern Switzerland FHNW",
+      "Gymnasium (High School), Hottingen Zurich"
+    ],
+    "companies": [
+      "Swiss Armed Forces",
+      "ABB",
+      "University of Applied Sciences and Arts Northwestern Switzerland FHNW",
+      "NASA Jet Propulsion Laboratory",
+      "prolim engineering",
+      "Hitachi Energy"
+    ],
+    "current_role": "Global Product Manager Hydrogen at Hitachi Energy"
+  },
+  "rahulgnani": {
+    "actor_id": "rahulgnani",
+    "name": "Gnani Rahul N",
+    "headline": "\ud83d\ude80 Identity Innovator | Cloud Alchemist @ Radiant Logic \ud83c\udf1f",
+    "location": "Dallas-Fort Worth Metroplex",
+    "bio": "As a passionate Cloud Engineer with 8+ years of experience, I thrive on solving complex challenges and optimizing cloud infrastructures. My journey began with a fascination for technology and a desire to harness the cloud's power to drive business innovation.\n\nThroughout my career, I've spearheaded multiple cloud migration projects, slashing operational costs by 30% and enhancing system reliability for Fortune 500 companies. My expertise in AWS and Azure, coupled with proficiency in Terraform and Kubernetes, enables me to architect scalable, secure cloud solutions tailored to diverse business needs\n\nKey Achievements:\n\u2022 Led a team to implement a cloud-native architecture, boosting application performance by 50% while ensuring industry compliance\n\u2022 Orchestrated a seamless migration of 100+ legacy applications to a hybrid cloud environment, resulting in a 40% reduction in infrastructure costs and 99.99% uptime\n\u2022 Designed and implemented a robust disaster recovery solution, reducing Recovery Time Objective (RTO) from 24 hours to 2 hours\n\nI'm driven by the ever-evolving nature of cloud technology and its potential to revolutionize businesses. My approach combines technical acumen with strategic thinking, allowing me to bridge the gap between complex cloud solutions and tangible business outcomes.\n\nSpecialties:\n\u2022 Cloud Platforms: AWS, Azure, Google Cloud\n\u2022 Infrastructure as Code: Terraform, CloudFormation\n\u2022 Containerization: Docker, Kubernetes\n\u2022 CI/CD: Jenkins, GitLab CI\n\u2022 Scripting: Python, Bash\n\u2022 Monitoring: Prometheus, Grafana\n\u2022 Security: IAM, VPCs, Security Groups\n\nBeyond technical skills, I'm a strong advocate for knowledge sharing and team collaboration. I regularly contribute to open-source projects and mentor aspiring cloud professionals, believing that collective growth strengthens our entire industry.\n\nWhen not immersed in cloud architectures, I'm an avid hiker and amateur photographer, finding inspiration in nature's intricate systems \u2013 much like the complex cloud ecosystems we build.\n\nI'm always eager to connect with fellow tech enthusiasts, potential collaborators, or anyone interested in discussing cloud strategies. Whether you're looking to optimize your cloud infrastructure, explore emerging technologies, or simply chat about the future of cloud computing, I'd love to hear from you",
+    "education": [
+      "Illinois Institute of Technology",
+      "Vellore Institute of Technology"
+    ],
+    "companies": [
+      "XSELL Technologies",
+      "Government of Andhra Pradesh",
+      "FOI LABS",
+      "Radiant Logic",
+      "Wipro"
+    ],
+    "current_role": "Senior Cloud Engineer at Radiant Logic"
+  },
+  "advik-gupta": {
+    "actor_id": "advik-gupta",
+    "name": "Advik Gupta",
+    "headline": "Incoming ACI @ LEK Consulting | KPMG\nStudent at Indian Institute of Technology, Delhi | BSW Secretary",
+    "location": "Mumbai, Maharashtra, India",
+    "bio": null,
+    "education": [
+      "Indian Institute of Technology, Delhi",
+      "Gundecha Education Academy"
+    ],
+    "companies": [
+      "Nanyang Business School",
+      "Pluckk",
+      "KPMG",
+      "Board for Student Publications, IIT Delhi ",
+      "Board for Student Welfare (BSW), IIT Delhi"
+    ],
+    "current_role": "Secretary at Board for Student Welfare (BSW), IIT Delhi"
+  },
+  "angeljonathan": {
+    "actor_id": "angeljonathan",
+    "name": "Jonathan (Jonty) Angel",
+    "headline": "Product | Engineer | Leadership | Strategy (ex - Google, Pinterest, Ocado, Rappi) ",
+    "location": "United Kingdom",
+    "bio": "Experienced Product leader with a demonstrated history of working in various businesses (Google, Pinterest, YouTube, Ocado) across the technology industry. Skilled in E-commerce, Product Marketing, Data Analysis, Strategic Planning, and Business Development. ",
+    "education": [
+      "London Business School",
+      "University of the Witwatersrand"
+    ],
+    "companies": [
+      "Ocado Group",
+      "Collective Benefits",
+      "Rappi",
+      "Pinterest",
+      "Google",
+      "Zapper\u2122",
+      "LandInsight"
+    ],
+    "current_role": "VP Product  at LandInsight"
+  },
+  "shikshamishra": {
+    "actor_id": "shikshamishra",
+    "name": "Shiksha Mishra",
+    "headline": "LightMetrics | Deep Learning | Machine Learning | Computer Vision | Biometrics | Image Processing | Open to refer",
+    "location": "Prayagraj, Uttar Pradesh, India",
+    "bio": "As a highly motivated and experienced professional, I have been fortunate enough to complete my Masters from IIT Jodhpur. During my academic journey, I have had the privilege to work on several challenging projects in collaboration with prestigious organizations such as MEITY and DRDO\n\nMy areas of expertise lie in the fields of face recognition, face detection, object detection, and classification. With an eye for detail and a passion for problem-solving, I have successfully tackled a wide range of issues in these domains.\n\nCurrently, I am working at Indiamart, where I joined in August 2021. My role here involves finding innovative solutions to diverse problems, including recommendations, image search, and image outlier detection. I am proud to say that I have been instrumental in driving several initiatives that have led to significant improvements in the company's operations.\n\nAs a dedicated professional, I remain updated with the latest trends and technologies in my field. My hardworking nature, combined with my attention to detail, enables me to deliver high-quality work consistently.\n\nI am excited to connect with professionals who share my passion for innovation and problem-solving. If you are looking for someone who can bring a fresh perspective and add value to your team, please don't hesitate to reach out to me",
+    "education": [
+      "Indian Institute of Technology Jodhpur",
+      "Dr. A.P.J. Abdul Kalam Technical University",
+      "M.P.V.M. Ganga Gurukulam"
+    ],
+    "companies": [
+      "Ignus'20 IIT Jodhpur",
+      "LightMetrics",
+      "IndiaMART InterMESH Limited"
+    ],
+    "current_role": "Machine Learning Engineer at LightMetrics"
+  },
+  "tushar-khattar-28950b104": {
+    "actor_id": "tushar-khattar-28950b104",
+    "name": "Tushar Khattar",
+    "headline": "Entrepreneur | An amalgam of business and technology | NSIT",
+    "location": "New Delhi, Delhi, India",
+    "bio": "Seasoned Product Leader with a track record of driving products from idea to market, notably scaling a consumer app to 1M+ MAUs in a year, aiming towards a $50M annual revenue. Recognized for launching innovative AI products by prominent figures like Ankur Warikoo and OpenAI\u2019s CTO, Greg Brockman. Initiated, developed, and organically marketed mobile applications, captivating over 500K global users. My deep expertise spans product growth, SAAS development, and Generative AI, leading teams to deploy strategies significantly impacting user engagement and revenue growth.",
+    "education": [
+      "Netaji Subhas Institute of Technology",
+      "Plaksha University"
+    ],
+    "companies": [
+      "InterMiles (Jet Privilege Pvt. Ltd)",
+      "Wow Labz",
+      "GroupM",
+      "Amora AI",
+      "MeriPay",
+      "SnapUs",
+      "MphRx (My Personal Health Records eXpress)",
+      "Ed-Tech Startup",
+      "MphRx"
+    ],
+    "current_role": "Founder at Amora AI"
+  },
+  "anupamkashiv": {
+    "actor_id": "anupamkashiv",
+    "name": "Anupam Kashiv",
+    "headline": "MD & CEO: Business Transformation Leader/ Data Security/ Supply Chain / Manufacturing / Industry 4.0/ Agile Process automation (IOT, AI/ ML/Block Chain)/ Consulting/ Peoples person",
+    "location": "Mumbai, Maharashtra, India",
+    "bio": "LASER-FOCUSED| COLLABORATIVE| RESULTS-DRIVEN BUSINESS LEADER\nGlobal Business leader with expertise in manufacturing, procurement, supply chain, data security, global business services (finance, HR, sales and supply chain) and business process excellence. My competence has been in varied sectors viz. FMCG, BPO, automobiles and pharmaceutical with expertise in Lean, Six Sigma, TPM, manufacturing / supply chain excellence, data security and finance transformation. I design effective strategies that lead to profit maximization, significant  cost savings, reduction in turnaround times and substantiated positive business output.\nSUCCESS STRATEGY\nWith total experience of over three decades, I have significantly contributed in the growth and development of the businesses I have been associated with. I provide value through progress planning, productivity enhancement, technology adoption and alignment of financial initiatives to organizational objectives. \nMy proficiency in formulating varied transformation programs with critical insights for building progression conduits aids me in influencing key decisions, as member of strategic group. All initiatives undertaken by me have rendered me hands-on and advanced exposure to competently handle ownership of new beginnings. \nSTEADY TRACK-RECORD\nI have set up large teams, adopted global methodologies and delivered yield output by challenging the existing states besides remaining competitive and exhibiting execution excellence. I deeply participate in CXO engagements, team management, efficiency & performance improvements, new initiatives, entrepreneurship, and mentor-ship. My strategies are focused towards long term sustainable virtuous cycle of improvements and transformation, which render me with a specialized thrust. \nSPECIALTIES\nData Security DLP solutions/ Manufacturing & Supply Chain Excellence | Global Business Services I Global Shared Services | Collaboration | New Product Launch | Strategic Planning | TPM, Lean, Six Sigma and Process Innovation | Procurement |\u2019Building Leaders of Tomorrow\u2019",
+    "education": [
+      "Shri Ramdeobaba College of Engineering and Management"
+    ],
+    "companies": [
+      "Augmenter",
+      "Coca-Cola India",
+      "Eicher Tractors",
+      "Genpact",
+      "Procter & Gamble",
+      "Indal Electronics",
+      "Mondel\u0113z International",
+      "Cipla"
+    ],
+    "current_role": "MD & CEO at Augmenter"
+  },
+  "rebekahlsmith": {
+    "actor_id": "rebekahlsmith",
+    "name": "Rebekah Smith",
+    "headline": "Co-Founder and Executive Director at Labor Mobility Partnerships (LaMP)",
+    "location": "Washington, District of Columbia, United States",
+    "bio": "A policy entrepreneur, I have spent over a decade leading efforts to expand the scope and quality of migration pathways. As co-founder and executive director of Labor Mobility Partnerships (LaMP), I work to forge new agreements both with governments and industry actors that demonstrate the power of mobility to answer critical labor shortages and transform global labor markets to the benefit of the most vulnerable.",
+    "education": [
+      "Harvard Kennedy School of Government",
+      "Ohio Wesleyan University"
+    ],
+    "companies": [
+      "Center for Global Development",
+      "The World Bank",
+      "Labor Mobility Partnerships"
+    ],
+    "current_role": "Co-Founder and Executive Director at Labor Mobility Partnerships"
+  },
+  "aasitshah": {
+    "actor_id": "aasitshah",
+    "name": "Aasit Shah",
+    "headline": "MD, eQuinoxx House of Art\u2022Design\u2022Films\n\u25ab\ufe0fPolitical Campaigns\n\u25ab\ufe0fBranding & Communication Strategist\n\u25ab\ufe0fChairman GCCI Film Committee\n\u25ab\ufe0fChairman JITO CFE\n\u25ab\ufe0fStartup Investor & Mentor",
+    "location": "Ahmedabad, Gujarat, India",
+    "bio": "Dr. Aasit Shah\nMD, eQuinoxx House of Art \u2022 Design \u2022 Films\n\nAasit Shah is a multi-faceted personality who has been felicitated by several global and Indian universities, media houses and organizations owing to his leadership skills and creative vision. Hailed as the \u2018Creative Icon of India\u2019, his efforts made an instrumental impact on the growth of Art & Design industry in India.\n\nAn alumnus of University of Southern California, he is an esteemed Silicon Valley veteran who has worked with Adobe Systems & eBay before returning to India with a plan to revolutionize the creative industry. Honored with an \u2018Honorary Doctorate\u2019 by the University of Azteca in Los Angeles, Aasit is the brainchild and creative force behind eQuinoxx, the leading design hub in the country.\n\nHolding important executive board positions in Gujarat Chamber of Commerce (GCCI) and JITO, he has been awarded among \u2018Men of the Year\u2019 by Times Group in 2018 & 2019 along with several prestigious recognitions, over the years. His knowledge and stronghold over creative aspects nurture his enigmatic personality, driving creativity across the eQuinoxx Group.\n\nFor his dynamic vision & immense expertise in the field of Art-Design-Films, Aasit was conferred with \u2018Estrellas\u2019 Award by Divya Bhaskar Group in 2018. Also featured on the Cover Page of a popular international magazine - SiliconIndia in 2018. Earlier he was awarded by Times of India as \u2018Icon of Gujarat\u2019 in 2017 & by Divya Bhaskar in 2012 as the \u2018Young Turk/GenNext Entrepreneur of Gujarat\u2019 for his business-ideas & being an inspiration for the new age.\n\nFeatured on Radio on MYFM\u2019s My Icon Show as well as interviewed by Gujarat TV, Mantavya News, Ahmedabad Times, Economic Times, City Bhaskar as well as Mumbai Mirror publications.\n\nHe\u2019s also been invited by Nirma School of Management, Adani Institute of Infrastructure Management, United World Business School, Ahmedabad University, GLS School of Management, B.K School of Management, DPS School & Gujarat Technological University (GTU) for Keynote talks on Entrepreneurship, Branding-Marketing & as a Jury for judging various Competitions.\n\nFelicitated by Honorable PM Shri Narendra Modi, Gujarat Chief Minister Shri Bhupendrabhai Patel & past Chief Minister Shri Vijaybhai Rupani, Gujarat Education Minister Shri Bhupendra Sinh Chudasma, Gujarat Energy Minister Shri Saurabh Patel, Ahmedabad Commissioner of Police Shri A. K. Singh & also other prominent celebrities like John Abraham, Zareen Khan, Tisca Chopra & gurus Shri Madhavpriyadas Swami, Shri Dwarkeshlalji Maharaj, Shri Gaur Gopal Prabhu & others.",
+    "education": [
+      "University of Southern California",
+      "DDIT"
+    ],
+    "companies": [
+      "Adobe",
+      "eQuinoxx Design Studio",
+      "YObaba.com",
+      "eBay",
+      "IDEA Product Design"
+    ],
+    "current_role": "Managing Director at eQuinoxx Design Studio"
+  },
+  "parullmaathur": {
+    "actor_id": "parullmaathur",
+    "name": "Parul M.",
+    "headline": "Vice President, Talent",
+    "location": "India",
+    "bio": null,
+    "education": [
+      "XLRI Jamshedpur",
+      "University of Delhi"
+    ],
+    "companies": [
+      "Hive",
+      "Tomales Bay Capital",
+      "Google"
+    ],
+    "current_role": "Vice President, Talent at Tomales Bay Capital"
+  },
+  "venkat-rahul-316077190": {
+    "actor_id": "venkat-rahul-316077190",
+    "name": "Venkat Rahul",
+    "headline": "Glean | CSE@IITM",
+    "location": "Indore, Madhya Pradesh, India",
+    "bio": "software engineer at glean working on SAAS applications.\n",
+    "education": [
+      "Indian Institute of Technology, Madras",
+      "Mount Carmel School, Dwarka, New Delhi"
+    ],
+    "companies": [
+      "Glean",
+      "American Express",
+      "Ayu Devices Pvt Ltd"
+    ],
+    "current_role": "Software Engineer at Glean"
+  },
+  "tmccahill": {
+    "actor_id": "tmccahill",
+    "name": "Tim McCahill",
+    "headline": "Account Executive at Workday VNDLY",
+    "location": "Indianapolis, Indiana, United States",
+    "bio": null,
+    "education": [
+      "Marquette University",
+      "La Universidad Pontificia Comillas (ICADE)"
+    ],
+    "companies": [
+      "SAP Fieldglass",
+      "Hatch Staffing Services",
+      "Cornerstone OnDemand",
+      "3M",
+      "Workday VNDLY"
+    ],
+    "current_role": "Account Executive VNDLY at Workday VNDLY"
+  },
+  "mansi-sharma-383036209": {
+    "actor_id": "mansi-sharma-383036209",
+    "name": "Mansi Sharma",
+    "headline": "Mech IITD'24 | GSoC'23 Mentor@SymPy | GSoC'22@SymPy",
+    "location": "Gurugram, Haryana, India",
+    "bio": "You can contact me on mansi21021@gmail.com",
+    "education": [
+      "Indian Institute of Technology, Delhi",
+      "Pathfinder Global School"
+    ],
+    "companies": [
+      "Google Summer of Code",
+      "BloodConnect Foundation",
+      "Hacktoberfest",
+      "Sony Research India",
+      "International MUN ",
+      "TRYST, IIT Delhi",
+      "NM Group",
+      "Office of Career Services, IIT Delhi",
+      "Brainnest",
+      "Rendezvous IITD"
+    ],
+    "current_role": "Mentor at Google Summer of Code"
+  },
+  "startupwithomkar": {
+    "actor_id": "startupwithomkar",
+    "name": "Omkar Kulkarni",
+    "headline": "CEO @ Maha Accelerator | VC & Global Ecosystem Builder | Helped 200+ Startups Raise Funding",
+    "location": "Bengaluru, Karnataka, India",
+    "bio": "\ud835\udc08 \ud835\udc07\ud835\udc1e\ud835\udc25\ud835\udc29 \ud835\udc12\ud835\udc2d\ud835\udc1a\ud835\udc2b\ud835\udc2d\ud835\udc2e\ud835\udc29\ud835\udc2c \ud835\udc02\ud835\udc2b\ud835\udc1a\ud835\udc1c\ud835\udc24 \ud835\udc2d\ud835\udc21\ud835\udc1e \ud835\udc05\ud835\udc2e\ud835\udc27\ud835\udc1d\ud835\udc22\ud835\udc27\ud835\udc20 \ud835\udc02\ud835\udc28\ud835\udc1d\ud835\udc1e \u2014 \ud835\udc05\ud835\udc2b\ud835\udc28\ud835\udc26 \ud835\udc13\ud835\udc22\ud835\udc1e\ud835\udc2b \ud835\udfd0 \ud835\udc02\ud835\udc22\ud835\udc2d\ud835\udc22\ud835\udc1e\ud835\udc2c \ud835\udc2d\ud835\udc28 \ud835\udc06\ud835\udc25\ud835\udc28\ud835\udc1b\ud835\udc1a\ud835\udc25 \ud835\udc0c\ud835\udc1a\ud835\udc2b\ud835\udc24\ud835\udc1e\ud835\udc2d\ud835\udc2c\n\nAs a startup ecosystem architect, I\u2019ve spent 11 years breaking barriers:\n\ud835\udc05\ud835\udc28\ud835\udc2b \ud835\udc05\ud835\udc28\ud835\udc2e\ud835\udc27\ud835\udc1d\ud835\udc1e\ud835\udc2b\ud835\udc2c: Worked with 200+ startups (55% success rate) like Jaipur Watch Co. (\u20b98Cr revenue) and Amaha ($15M Series A), Lal10 (30Cr revenue) and many more \n\ud835\udc05\ud835\udc28\ud835\udc2b \ud835\udc08\ud835\udc27\ud835\udc2f\ud835\udc1e\ud835\udc2c\ud835\udc2d\ud835\udc28\ud835\udc2b\ud835\udc2c: Built a \u20b9100Cr AIF fund and curated high-potential deals (4 Shark Tank alumni in 1 year).\n\ud835\udc05\ud835\udc28\ud835\udc2b \ud835\udc00\ud835\udc1c\ud835\udc1c\ud835\udc1e\ud835\udc25\ud835\udc1e\ud835\udc2b\ud835\udc1a\ud835\udc2d\ud835\udc28\ud835\udc2b\ud835\udc2c: Worked with 10 global accelerators to setup operations & run successful programs.\n\ud835\udc05\ud835\udc28\ud835\udc2b \ud835\udc08\ud835\udc27\ud835\udc1c\ud835\udc2e\ud835\udc1b\ud835\udc1a\ud835\udc2d\ud835\udc28\ud835\udc2b\ud835\udc2c: Help in setting up, develop process and smooth operations.\n\ud835\udc05\ud835\udc28\ud835\udc2b \ud835\udc0c\ud835\udc1e\ud835\udc1d\ud835\udc22\ud835\udc1a: Creator of regional startup reality show.\n\n\ud835\udc0c\ud835\udc32 \ud835\udc14\ud835\udc27\ud835\udc1f\ud835\udc1a\ud835\udc22\ud835\udc2b \ud835\udc00\ud835\udc1d\ud835\udc2f\ud835\udc1a\ud835\udc27\ud835\udc2d\ud835\udc1a\ud835\udc20\ud835\udc1e:\n\ud83d\udd17\ud835\ude0a\ud835\ude33\ud835\ude30\ud835\ude34\ud835\ude34-\ud835\ude09\ud835\ude30\ud835\ude33\ud835\ude25\ud835\ude26\ud835\ude33 \ud835\ude17\ud835\ude2d\ud835\ude22\ud835\ude3a\ud835\ude23\ud835\ude30\ud835\ude30\ud835\ude2c\ud835\ude34: Advised Accelerators & Startups from US, Africa, SEA, UAE\n\n\ud83c\udfaf\ud835\ude0b\ud835\ude22\ud835\ude35\ud835\ude22-\ud835\ude0b\ud835\ude33\ud835\ude2a\ud835\ude37\ud835\ude26\ud835\ude2f \ud835\ude1a\ud835\ude24\ud835\ude22\ud835\ude2d\ud835\ude2a\ud835\ude2f\ud835\ude28: At Gray Matters, used NLP + behavioral science to boost portfolio growth (e.g., User Engagement for Lal10, Amaha, MultiBhashi, Mums Village, Meghshala, Mosabi, Ed Micro etc. ).\n\n\ud83d\udcc8\ud835\ude0c\ud835\ude39\ud835\ude2a\ud835\ude35 \ud835\ude1e\ud835\ude2a\ud835\ude34\ud835\ude25\ud835\ude30\ud835\ude2e: Built and sold Oyecity (India\u2019s early conversational commerce platform), Mergers & Acquisitions for portfolio companies. Exit for Skipy, Madguylabs, Mums Village etc.\n\nLet\u2019s Work Together If You\u2019re:\n\nA \ud835\udc05\ud835\udc28\ud835\udc2e\ud835\udc27\ud835\udc1d\ud835\udc1e\ud835\udc2b in Tier 2/3 India looking for seed-to-Series A funding or global scaling.\n\nAn \ud835\udc08\ud835\udc27\ud835\udc2f\ud835\udc1e\ud835\udc2c\ud835\udc2d\ud835\udc28\ud835\udc2b chasing curated deals in INDIA, or impact sectors.\n\nA \ud835\udc1c\ud835\udc28\ud835\udc2b\ud835\udc29\ud835\udc28\ud835\udc2b\ud835\udc1a\ud835\udc2d\ud835\udc1e/\ud835\udc0c\ud835\udc1e\ud835\udc1d\ud835\udc22\ud835\udc1a \ud835\udc0f\ud835\udc1a\ud835\udc2b\ud835\udc2d\ud835\udc27\ud835\udc1e\ud835\udc2b interested in startup shows, accelerators, or ecosystem building.\n\n\ud83d\udce9 Priority Inbox: \ud835\udc28\ud835\udc26\ud835\udc24\ud835\udc1a\ud835\udc2b@\ud835\udc26\ud835\udc1a\ud835\udc21\ud835\udc1a\ud835\udc1a\ud835\udc1c\ud835\udc1c\ud835\udc1e\ud835\udc25\ud835\udc1e\ud835\udc2b\ud835\udc1a\ud835\udc2d\ud835\udc28\ud835\udc2b.\ud835\udc1c\ud835\udc28\ud835\udc26 (Send \u201c\ud835\ude13\ud835\ude2a\ud835\ude2f\ud835\ude2c\ud835\ude26\ud835\ude25\ud835\ude10\ud835\ude2f \ud835\ude19\ud835\ude26\ud835\ude27\u201d in subject line for fastest reply).",
+    "education": [
+      "The Wharton School",
+      "Vellore Institute of Technology",
+      "Padmabhushan Vasantraodada Patil Institute Of Technology",
+      "New English School Kognoli"
+    ],
+    "companies": [
+      "oyecity.com",
+      "Marwari Catalysts",
+      "Saint-Gobain",
+      "International Accelerator",
+      "Gray Matters Capital",
+      "Vellore Institute Of Technology",
+      "Maha Accelerator",
+      "EDUGILD",
+      "Start-Up Chile",
+      "RailTel Corporation of India Ltd"
+    ],
+    "current_role": "Chief Executive Officer at Maha Accelerator"
+  },
+  "upperwal": {
+    "actor_id": "upperwal",
+    "name": "Abhishek Upperwal",
+    "headline": "Building foundation language models for Indian languages | Founder at Soket Labs | IISc Bangalore",
+    "location": "Bengaluru, Karnataka, India",
+    "bio": "Entrepreneur during the day, Engineer at night.\n\nAbhishek is a Data Scientist by profession and CEO by the needs with a total of 8+ years of experience in various roles. His personal vision is to advance the field of AI that can ultimately contribute towards solutions for social issues. This is reflected in the vision of his startup, Soket Labs.\n\nHe started his professional life as a freelance web developer, which transitioned into a design studio startup. He has done his post-graduation in Computational and Data Sciences from Indian Institute of Science, Bangalore, specialising in High-Performance Computing and Distributed Systems. \n\nHe has work experience in various big data technologies like Hadoop, Spark, Giraph, and various distributed systems or Blockchain technologies like Ethereum and Libp2p. \n\nHe has also been engaged with the smart cities mission initially as a fellow for building a DataSpace for smart cities to streamline their data management capabilities through data processing pipelines and creating data standards for urban mobility. He has worked with the Data and Management Unit as a Data Scientist to support various data initiatives in the Ministry of Housing and Urban Affairs and National Institute of Urban Affairs. He co-lead the Wastewater Intelligence Network Program which aims to institutionalise Wastewater-based Epidemiology for healthcare surveillance and use of data for decision making in pandemic management.",
+    "education": [
+      "Indian Institute of Science",
+      "The NorthCap University",
+      "Blue Bells Model School"
+    ],
+    "companies": [
+      "Merkle Labs",
+      "Ministry of Housing and Urban Affairs",
+      "Qubit Technologies",
+      "Soket AI Labs",
+      "National Institute of Urban Affairs (NIUA)",
+      "Innovate Delhi Entrepreneurship Academy"
+    ],
+    "current_role": "CEO / Founder at Soket AI Labs"
+  },
+  "ruthu-srihari-6717b2195": {
+    "actor_id": "ruthu-srihari-6717b2195",
+    "name": "Ruthu Srihari",
+    "headline": "Business Development Executive at Fanzart",
+    "location": "Bengaluru, Karnataka, India",
+    "bio": "The thing that fascinates me is that how a bunch of fried potatoes were put in a red and yellow holder and became a global addiction. I am Ruthu Srihari am a BBA graduate from Centre of management studies, Bangalore. I have completed Level 4 in \"Applied marketing\" from Chartered Institute of Marketing from London and have completed a course on \"Market Research and Consumer Behavior\" from IE Business School. I have co-authored and published a research paper called \" Marketing Practices during Covid 19 in India\" in the Aegaeum journal from Belgium which is under the UGC care. I have also created an e-commerce website about automobiles from the Czech Republic for the International management day at my college. I am really keen on marketing and the different aspects of marketing and it is my college major as well. The huge billboards with models flaunting their pieces of art, a bar of soap looking like a perfect spa dream, and even a bar of small bar chocolate satisfying a bunch of hungry people always caught my attention and got me thinking about how a simple yet intricate concept of marketing can build millions of businesses. I was a content writer and a digital marketing intern at DHS informatics, Envitest, Omegaon. I am currently working as a content manager at M56 Studios. I also have prepared quizzes about food, sports, entertainment, history, books, and many more. I write a lot of poems and stories and I'm good at expressing feelings well. I am very interested in psychology and I have studied for 6 months of organizational psychology. I'm really creative in developing new ideas for sales marketing and promotion. I'm open to learning more and I am a fast teacher as well. My communication is not only through words but with my actions. I can really manage a team. I worked in the hospitality and logistics team in my college for one year. I'm not only good at leadership or in organizing but I'm good at doing what people really want. I can do good to the team members and also others. My hobbies are cooking, painting, writing, and painting. I have a keen interest in the food industry and learn about food every day. I'm great at connecting with people with whom I share common interests and food is my way to do that.",
+    "education": [
+      "Center for Management Studies(CMS)"
+    ],
+    "companies": [
+      "Dianox",
+      "Design Noise",
+      "Fanzart",
+      "DHS Informatics",
+      "ENVITEST LABORATORIES PVT LTD",
+      "OmegaOn",
+      "m56 Studios"
+    ],
+    "current_role": "Business Development Executive at Fanzart at Fanzart"
+  },
+  "marcburckin": {
+    "actor_id": "marcburckin",
+    "name": "Marc Burckin",
+    "headline": "Customer Support and Success Leader",
+    "location": "Castro Valley, California, United States",
+    "bio": "I am a results oriented business executive within the software industry. I have held senior positions in Customer Support, Customer Success, Business Development and Channels & Alliance Management.\n\nI am a passionate leader who has a track record of building and maintaining successful teams and delivering strong business results.\n\nI also like to enjoy the ride along the way with my teams and colleagues!",
+    "education": [
+      "University of California, San Diego",
+      "University of Exeter"
+    ],
+    "companies": [
+      "Kenandy, Inc.",
+      "EMC",
+      "Documentum, Inc.",
+      "Seal Software",
+      "Documentum ",
+      "Dell EMC",
+      "Docusign",
+      "DocuSign"
+    ],
+    "current_role": "Vice President, Customer Support at Docusign"
+  },
+  "rahulluminar": {
+    "actor_id": "rahulluminar",
+    "name": "Rahul Mohanakumar",
+    "headline": "Founder & MD at Luminar Technolab | Helping Students to Land IT Jobs | 7000+ IT Fresher Placements Within 6 Years",
+    "location": "Ernakulam, Kerala, India",
+    "bio": "As the Founder and Managing Director of Luminar Technolab, I provide IT education and services to students and clients across India. I have more than 15 years of experience in the IT industry, and I have a deep understanding of the market needs, trends, and challenges. My core competencies include service delivery and operations, client engagement and satisfaction, financial management and business development, incident management and problem solving, and sales oriented operations.\n\nI have successfully supported various types of businesses and customer bases, including ITES/BPO, inbound voice technical support, customer service, and sales, in geographies such as the USA, UK, Canada, Australia, and India. I am also a certified CCNA and Google Ads professional, and a technical evangelist who loves to share my knowledge and mentor others. My mission is to help students land IT jobs and to help clients achieve their IT goals. I am also the Founder of another company that offers IT solutions and consulting services.",
+    "education": [
+      "Model Polytechnic College, Mala",
+      "GHSSS Aluva"
+    ],
+    "companies": [
+      "Luminar Technolab",
+      "Sutherland Global Services",
+      "IndiaOptions Softwares Pvt Ltd",
+      "Infinite Computer Solutions",
+      "Expertzlab Technologies Pvt Ltd",
+      "Luminar Technohub",
+      "flipClass",
+      "Information Kerala Mission"
+    ],
+    "current_role": "Founder & MD at Luminar Technolab"
+  },
+  "anchitjaincfa": {
+    "actor_id": "anchitjaincfa",
+    "name": "Anchit Jain, CFA",
+    "headline": "Making Insurance Smarter, Cheaper & Decentralized | Fintech + Defi + AI | MBA, UC Berkeley | Ex-Goldman Sachs",
+    "location": "San Francisco Bay Area",
+    "bio": "Passionate with financial markets and entrepreneurship. Talk to me here: https://calendly.com/anchitjaincfa",
+    "education": [
+      "University of California, Berkeley, Haas School of Business",
+      "London Business School",
+      "University of California, Berkeley",
+      "University of California, Berkeley - School of Law",
+      "Indian Institute of Technology, Roorkee"
+    ],
+    "companies": [
+      "Goldman Sachs",
+      "Jiraaf",
+      "Piramal Enterprises Limited",
+      "Metcalfe.capital",
+      "Clear Ventures",
+      "Satsurance",
+      "Swagtam",
+      "Jefferies",
+      "Aptivaa",
+      "Various Startups"
+    ],
+    "current_role": "BUIDLing at Satsurance"
+  },
+  "dwane": {
+    "actor_id": "dwane",
+    "name": "Anne Dwane",
+    "headline": "Co-Founder & Partner at Village Global",
+    "location": "San Francisco, California, United States",
+    "bio": "VC. Former tech company founder, venture-backed CEO, and public company executive.  20 years\u2019 experience managing P&Ls, rapidly scaling operations from startup through IPO, building high performance teams, and creating services valued by tens of millions of users.  Led 2 companies to acquisition by Monster and Chegg.  Identified and integrated 6+ acquisitions. P&L responsibility before/after Chegg\u2019s IPO, valued at $1B+. ",
+    "education": [
+      "Georgetown University",
+      "Harvard Business School"
+    ],
+    "companies": [
+      "ZINCH",
+      "Military Advantage Division of Monster",
+      "Monster Worldwide",
+      "Village Global",
+      "GSV Acceleration Fund, Early Stage Venture Capital ",
+      "Military.com",
+      "Chegg Inc.",
+      "Harvard Business Publishing",
+      "Interval Research"
+    ],
+    "current_role": "Co-Founder & General Partner at Village Global"
+  },
+  "mohammed-yousuf-12a1b8b8": {
+    "actor_id": "mohammed-yousuf-12a1b8b8",
+    "name": "Mohammed Yousuf",
+    "headline": "working as an IT TRAINER with ASSENT INFOTECH PRIVATE LIMITED",
+    "location": "Jammu & Kashmir, India",
+    "bio": "Seeking a challenging role in a reputed company that would enable me to utilise my skills and experience for the growth of company.",
+    "education": [
+      "UNIVERSITY OF KASHMIR"
+    ],
+    "companies": [
+      "Mount Talent Consulting Pvt Ltd.",
+      "Pinaki",
+      "ASSENT INFOTECH PRIVATE LIMITED",
+      "ITCONS e-Solution Private Limited"
+    ],
+    "current_role": "IT TRAINER at ASSENT INFOTECH PRIVATE LIMITED"
+  },
+  "ramin-bastani-756838": {
+    "actor_id": "ramin-bastani-756838",
+    "name": "Ramin Bastani",
+    "headline": "CEO, Healthvana",
+    "location": "Los Angeles, California, United States",
+    "bio": null,
+    "education": [
+      "University of Southern California"
+    ],
+    "companies": [
+      "Moba Real Estate",
+      "Healthvana",
+      "NationBuilder",
+      "The Bastani Group",
+      "SportsFrog! - incubated at eCompanies"
+    ],
+    "current_role": "CEO at Healthvana"
+  },
+  "shreya-agarwal510": {
+    "actor_id": "shreya-agarwal510",
+    "name": "Shreya Agarwal",
+    "headline": "all things content and audience | \nex-head of FilterCopy",
+    "location": "Mumbai, Maharashtra, India",
+    "bio": "I love using audience insights, data and creativity to shape narratives and behaviors. And I've spend the last decade doing exactly that - not just by creating content, but by building organic distribution, systems, communities, teams, and the content thesis behind it. \n\nI started at a digital agency in 2015 when brands were just waking up to social media. I gained early exposure to digital platforms, audience behavior and metrics and very quickly, found merit in working on content that found its own audience, without marketing spends. \n\nI joined Pocket Aces in 2017 (FilterCopy, Dice Media, Gobble, Nutshell) as a founding member and set up and scaled branded content from scratch - before it became a buzzword :) I then went on to lead Content Strategy across our fiction and non-fiction channels. \n\nEventually, I headed FilterCopy, one of India\u2019s most loved youth content platforms, scaling it to 3B+ annual organic views and a 20M+ audience across YouTube, Instagram, Facebook and Snapchat, organically and profitably, with a team I am still proud of! \n\nI've produced 15+ high-retention IPs (social and OTT), content amassing 10B+ organic views, worked with 300+ brands - guiding them not just on what content to make, but how to measure the real impact of storytelling, beyond views.\n\nI am always looking for more ways to bring the audience to the right content! Love talking all things audience, platforms, communities, Kdramas and content :) ",
+    "education": [
+      "Symbiosis Centre for Media & Communication (SCMC)",
+      "Seth Anandram Jaipuria School, Kanpur"
+    ],
+    "companies": [
+      "Mid Day",
+      "Pocket Aces",
+      "FoxyMoron"
+    ],
+    "current_role": ""
+  },
+  "harshmeel": {
+    "actor_id": "harshmeel",
+    "name": "Harsh Meel",
+    "headline": "Engineering Solutions for the Climate Challenge | Researching Geoengineering & Clean Energy Grid @ Cornell | Cornell MS'26 | IIT Bombay '23 | FSAE",
+    "location": "Ithaca, New York, United States",
+    "bio": "Hey, I am a graduate researcher at Cornell, passionate about leveraging engineering and computational tools to tackle the climate challenge of this century. My work spans geoengineering and renewable energy grid modeling I am currently researching Stratospheric Aerosol Injection in the Climate Engineering group and clean energy grid optimization for New York State in the Anderson Lab. In effect, a clean grid helps prevent a climate emergency, while geoengineering explores last-resort solutions to stabilize Earth's climate if we fall short. I started out in hardware prototyping and design with Formula Student, but over time, my focus shifted toward computational modeling, optimization, and climate science. This blend of hands-on and analytical experience helps me approach problems from both a technical and systems-level perspective. Im currently looking for internship opportunities in places where I can grow and apply my skills in modeling, optimization, energy systems and climate dynamics to real-world climate challenges. Check out my academic website to learn more about my work! https://harshmeel.github.io/",
+    "education": [
+      "Cornell University",
+      "Indian Institute of Technology, Bombay",
+      "St. Marys' Sr. Sec. School, Sikar"
+    ],
+    "companies": [
+      "Tata Projects",
+      "IEOR, IITBombay",
+      "Culturals, IIT Bombay",
+      "IIT Bombay Racing",
+      "ideaForge",
+      "Cornell University College of Agriculture and Life Sciences"
+    ],
+    "current_role": "Research Assistant at Cornell University College of Agriculture and Life Sciences"
+  },
+  "akshat03": {
+    "actor_id": "akshat03",
+    "name": "Akshat Agarwal",
+    "headline": "Building Jivi",
+    "location": "Delhi, India",
+    "bio": null,
+    "education": [
+      "Delhi Technological University (Formerly DCE)",
+      "Sardar Patel Vidyalaya"
+    ],
+    "companies": [
+      "Swasth",
+      "The Indian Game Theory Society - DTU ",
+      "NeuralSpace",
+      "Jivi AI",
+      "Chrome Data Analytics and Media",
+      "Indraprastha Power Generation Company Ltd (IPGCL)"
+    ],
+    "current_role": "AI Applied Researcher at Jivi AI"
+  },
+  "sipraroy": {
+    "actor_id": "sipraroy",
+    "name": "Sipra Roy Halteman",
+    "headline": "Growth & Marketing Leader | Working Mom",
+    "location": "Bend, Oregon, United States",
+    "bio": "I\u2019m a marketing leader with 17+ years of experience helping brands grow\u2014from early-stage startups to Fortune 500s\u2014across the U.S., Europe, and Asia.\n\nI\u2019ve led global teams, launched performance marketing strategies, built brands from scratch, and helped high-growth companies scale from early-stage to eight-figure revenue with clarity and intention.\n\nBut what truly drives me is the why behind the work: building meaningful things with good people\u2014and creating impact that lasts beyond the campaign.\n\nI come from an immigrant family and stepped into a leadership role early in life. That shaped how I show up today: with grit, creativity, and a deep sense of ownership\u2014in work and in life.\n\nProfessionally, I care deeply about:\n\u2728 Growth strategy that\u2019s both creative and data-driven\n\u2728 Leading with clarity, calm, and care\n\u2728 Building strong, resilient teams that do work they\u2019re proud of\n\nPersonally, I\u2019ve learned the power of sharing what\u2019s real\u2014especially the harder parts.\nIf anything I\u2019ve experienced can help someone else feel less alone, more seen, or more supported in their own journey\u2026 I\u2019m here for that too.\n\nI\u2019m not here to be perfect\u2014just real.\nAnd if what I share helps even one person grow, that\u2019s enough for me.\n\nAdditional:\nFluent in Spanish, conversational in Bengali.\nRelevant international experience in the U.S., Europe, and Asia.",
+    "education": [
+      "IE Business School",
+      "Universidad de Santiago de Compostela",
+      "Saint Louis University"
+    ],
+    "companies": [
+      "IE Business School",
+      "Jupiter",
+      "Maxus",
+      "Jump - Advisor AI",
+      "iCrossing",
+      "Apiary Digital, LLC",
+      "Good Eggs",
+      "Covario",
+      "STROY LTD.",
+      "Twitter"
+    ],
+    "current_role": "Head of Marketing at Jump - Advisor AI"
+  },
+  "himanshu-verma-078302210": {
+    "actor_id": "himanshu-verma-078302210",
+    "name": "Himanshu Verma",
+    "headline": "Marketing Strategist | Copywriter | Social Media Manager & Strategist | Content Writer | Meme Marketing | SEO | Blogging | Email Marketing | Paid Media | MBA (HR + IB)",
+    "location": "Delhi, India",
+    "bio": "Hi there! My name is Himanshu Verma. I am a highly motivated and ambitious individual with a strong passion for working in the corporate sector.\n\nThroughout my academic journey, I have developed an in-depth understanding of the corporate world and the various challenges that come with it. My aim is to contribute to the growth and success of a reputed organization by utilizing my skills and knowledge.\n\nApart from my professional pursuits, I am an avid traveler and love exploring new places and cultures. I find that travel helps me broaden my horizons and gain new perspectives, which in turn helps me grow both personally and professionally.\n\nOverall, I am a well-rounded individual with a strong desire to succeed and make a positive impact in both my personal and professional life. I am always eager to learn and take on new challenges, and I am excited to see what the future holds.",
+    "education": [
+      "DCRUST, Murthal",
+      "DCRUST, Murthal"
+    ],
+    "companies": [
+      "Instagram",
+      "\ud83c\udf20",
+      "Flexsin Inc.",
+      "DARVEYS"
+    ],
+    "current_role": "Social Media Strategist & Content Writing  at \ud83c\udf20"
+  },
+  "tarun-santhosh-4651a51b4": {
+    "actor_id": "tarun-santhosh-4651a51b4",
+    "name": "Tarun Santhosh",
+    "headline": "Full Stack Developer at Cavli Wireless | Student at Model Engineering College",
+    "location": "Malappuram, Kerala, India",
+    "bio": "",
+    "education": [
+      "Model Engineering College",
+      "Kendriya Vidyalaya"
+    ],
+    "companies": [
+      "Cavli Wireless"
+    ],
+    "current_role": "Software Engineer at Cavli Wireless"
+  },
+  "ishitva": {
+    "actor_id": "ishitva",
+    "name": "Ishitva Goel",
+    "headline": "Lead, Technology at Nagarro",
+    "location": "South Delhi, Delhi, India",
+    "bio": "A Software Engineer with 8+ years of experience in Backend Engineering.",
+    "education": [
+      "Guru Gobind Singh Indraprastha University",
+      "Apeejay School Sheikh Sarai"
+    ],
+    "companies": [
+      "Nurture Talent Academy",
+      "GlobalLogic",
+      "Mozilla",
+      "ibibo Web Pvt. Ltd.",
+      "knowafest.com",
+      "Xperia Infotech",
+      "IEEE Student Branch GBPEC",
+      "G.B Pant Govt. Engineering College, New Delhi",
+      "Nagarro"
+    ],
+    "current_role": "Associate Lead, Technology at Nagarro"
+  },
+  "leoolebe": {
+    "actor_id": "leoolebe",
+    "name": "Leo Olebe",
+    "headline": "Media and Tech Executive | Board Chair/Director/Trustee | YPO | Ex-Google/YouTube/Facebook",
+    "location": "San Francisco Bay Area",
+    "bio": "Leo Olebe is Vice President, Global Partnerships, Xbox @ Microsoft. In this role he and the team work with gaming Creators and Publishers around the world to find success on Xbox.  \n\nHe is a results-oriented, veteran executive with experience in management consulting, brand management, strategic partnerships, and business development for some of the biggest brands and companies in the world. \n\nLeo has been in the games industry for more than 24 years, with experience ranging from launching AAA mobile, PC, console and online games to building new platforms and advising developers and start-ups. Before joining Microsoft Leo was Global Head of Gaming @ YouTube.  His work includes major brands like Star Wars, Marvel, Disney Princess and The Matrix at companies like Google, YouTube, Facebook, BioWare, EA, Disney, Warner Bros., Sierra Online (now Activision Blizzard), Zynga, and Kabam. He has degrees from Occidental College and the University of Southern California Marshall School of Business. Leo is a Board Chair for Games for Change and is a Board Trustee at Occidental College and The Strong National Museum of Play.",
+    "education": [
+      "USC Marshall School of Business",
+      "Occidental College"
+    ],
+    "companies": [
+      "Maestro Media",
+      "Microsoft",
+      "Games for Change",
+      "Facebook",
+      "GreatSchools",
+      "The Strong",
+      "Occidental College",
+      "Endless",
+      "Google",
+      "YPO"
+    ],
+    "current_role": "Vice President Global Partnerships | Xbox at Microsoft"
+  },
+  "ankurboruah": {
+    "actor_id": "ankurboruah",
+    "name": "Ankur Boruah",
+    "headline": "Regional Sales Manager - Vision Systems at Sacmi USA |\n\nVision Inspection Systems | Automation | Quality Control",
+    "location": "Des Moines Metropolitan Area",
+    "bio": "Regional Sales Manager for Vision Systems at SACMI USA. Experience with Vision Systems my whole career specifically in the inspection of high speed manufacturing processes.",
+    "education": [
+      "Illinois Institute of Technology",
+      "Manipal University",
+      "The Lawrence School, Lovedale"
+    ],
+    "companies": [
+      "International Center for Applied Sciences",
+      "NavLab, Illinois Institute of Technology",
+      "SACMI",
+      "ClassCalc",
+      "Illinois Institute of Technology"
+    ],
+    "current_role": "Regional Sales Manager - Vision Systems at SACMI"
+  },
+  "hananharish": {
+    "actor_id": "hananharish",
+    "name": "Hanan Fathima Harish",
+    "headline": "Compliance Officer at ruya Community Islamic Bank | \nGo-AKS Globally Certified KYC Specialist | EPGM- IIM Indore | Compliance | Corporate Onboarding | Transaction Monitoring and FinCrime|  People Management",
+    "location": "Dubai, United Arab Emirates",
+    "bio": "Detail-oriented and highly motivated Anti-Money Laundering (AML) professional with solid experience from one of the Big Four. Proficient in conducting risk assessments, monitoring transactions, and ensuring compliance with AML regulations. Strong problem-solving skills combined with excellent communication abilities. Eager to contribute to a dynamic team and apply theoretical knowledge to real-world AML challenges.",
+    "education": [
+      "Indian Institute of Management, Indore",
+      "Mahatma Gandhi University",
+      "Kendriya Vidyalaya"
+    ],
+    "companies": [
+      "Redeem Sports (Kochi City FC)",
+      "Deloitte",
+      "PSC CHALLENGER",
+      "ruya"
+    ],
+    "current_role": "Compliance Officer at ruya"
+  },
+  "raj-anand0511": {
+    "actor_id": "raj-anand0511",
+    "name": "Raj Anand",
+    "headline": "Software Engineer @Amazon | 10k+ @Linkedin | VIT, Vellore",
+    "location": "Bengaluru, Karnataka, India",
+    "bio": "Hello! I am Raj Anand, a graduate from VIT, Vellore who loves Software Development.\n\nCurrently, I'm working at Amazon as a Software Development Engineer 1 (SDE1). I primarily deal with technologies for a full-stack web application like React and Next on the frontend and Node, Go and Java on the backend. Currently, I am exploring app development - mainly Android, and React Native.\n\nSoftware engineering for me is an art form. A form of art that helps and connects the world, and that is why it excites me and motivates me to keep growing and learning more about it.",
+    "education": [
+      "Vellore Institute of Technology"
+    ],
+    "companies": [
+      "Uptone",
+      "Aurva",
+      "Scaler",
+      "C4 Projects",
+      "CodeChef-VIT Student Chapter",
+      "Amazon",
+      "WisdomCircle",
+      "GrowthSchool"
+    ],
+    "current_role": "Software Engineer at Amazon"
+  },
+  "amit-bhardwaj-308b17119": {
+    "actor_id": "amit-bhardwaj-308b17119",
+    "name": "Amit Bhardwaj",
+    "headline": "Software Engineer 3 - Walmart",
+    "location": "Greater Delhi Area",
+    "bio": "A computer enthusiast interested in competitive programming. Very passionate about data structures, and algorithms. Perform better under pressure and love working in a healthy competition. Fresh Graduate Software Engineer with a demonstrated history of working in the computer software industry. Skilled in Oracle Database Administration, Android Development, HTML, CSS, Data Structure and Algorithms, React Native, ReactJS, C, C++ (Programming Language). Strong engineering professional graduated from Delhi Technological University. ",
+    "education": [
+      "Delhi Technological University",
+      "CODING BLOCKS",
+      "CODING NINJAS",
+      "Hindu Senior Secondary School",
+      "Saraswati Vidya Mandir School"
+    ],
+    "companies": [
+      "App Street Software Pvt. Ltd.",
+      "ITWINGS INFOSYSTEM PRIVATE LIMITED",
+      "Chegg Inc.",
+      "Walmart",
+      "Shipsy"
+    ],
+    "current_role": "Software Engineer 3 at Walmart"
+  },
+  "neeraj-kumar-6b682218": {
+    "actor_id": "neeraj-kumar-6b682218",
+    "name": "Neeraj Kumar",
+    "headline": "Head of Operations",
+    "location": "Bengaluru, Karnataka, India",
+    "bio": "Neeraj has over 14 years of experience across social entrepreneurship, sales operations, sales strategy, digital strategy. He has led several large scale programs at Accenture including execution of a significant sales transformation program across geographies. He has extensive experience in developing sales processes, setting up appropriate operating model for sales effectiveness, developing market penetration sales strategy and driving business with a growth focus.",
+    "education": [
+      "Indian Institute of Technology, Kanpur",
+      "St Xaviers High School - Patna",
+      "Great Lakes Institute of Management",
+      "St. Michael's High School - Patna"
+    ],
+    "companies": [
+      "Accenture",
+      "IBM",
+      "Bangalore Graduate Constituency",
+      "SkyHigh Health and Fitness",
+      "Ultrahuman",
+      "Garden of Samadhi"
+    ],
+    "current_role": "Associate Vice President at Ultrahuman"
+  },
+  "manish-rana-b2533a64": {
+    "actor_id": "manish-rana-b2533a64",
+    "name": "Manish Rana",
+    "headline": "CodeSquadz Noida (Venture of AppSquadz Software Pvt Ltd) Manager-Institutions & Corporate Alliance",
+    "location": "Noida, Uttar Pradesh, India",
+    "bio": "",
+    "education": [],
+    "companies": [
+      "CodeSquadz"
+    ],
+    "current_role": "Learning And Development Specialist at CodeSquadz"
+  },
+  "alayjhaveri": {
+    "actor_id": "alayjhaveri",
+    "name": "Alay Jhaveri",
+    "headline": "CEO @ Jhaveri Flexo - Leading Flexible Packaging Solutions for Global Brands | Partner @ ICE.vc | SPJIMR & NCSU, USA Alumnus",
+    "location": "Mumbai, Maharashtra, India",
+    "bio": "Hello,\n\nI\u2019m the CEO at Jhaveri Flexo, a flexible packaging manufacturer serving top global brands like Nestle, Kellogg's, Hersheys, Unilever, Perfetti and many more. With over 25 years of experience, we offer a one-stop solution for flexible packaging; from manufacturing to printing, laminating, and pouching. Our focus is on R&D and innovation, allowing us to deliver high-quality products with a commitment to sustainability.\n\nIn addition to my role at Jhaveri Flexco, I am a Partner at ICE.vc, where we\u2019ve closed over 80 deals and led 10+ syndicates in seed and angel investments across industries such as Automation, AI, Robotics and SaaS. Our portfolio spans over 80 startups across three continents.\n\nI also serve as CFO at Mars Fincom, focusing on equity and debt investments, with a keen interest in real estate.\n\nHaving a strong background in finance and operations, I\u2019ve always been driven by my desire to create a lasting impact while staying true to my values of ethical business practices and respect for the legacy built by my family.\n\nFeel free to drop me a message, would be happy to connect.",
+    "education": [
+      "S.P. Jain Institute of Management & Research",
+      "North Carolina State University - Poole College of Management ",
+      "Jamnabai Narsee School"
+    ],
+    "companies": [
+      "Mars Fincom",
+      "Jhaveri Flexo India Ltd",
+      "Jhaveri Flexo",
+      "ICE.vc",
+      "YourGuy Concierge (Acquired)"
+    ],
+    "current_role": "Managing Director & CEO at Jhaveri Flexo"
+  },
+  "mehersaipreetam": {
+    "actor_id": "mehersaipreetam",
+    "name": "Meher Sai Preetam Madiraju",
+    "headline": "Data Scientist at Tiger Analytics | Georgia Tech Graduate Student",
+    "location": "Bengaluru, Karnataka, India",
+    "bio": "I am an accomplished Data Scientist with a strong foundation in Machine Learning, Deep Learning, and the emerging field of Generative AI. My expertise lies in transforming complex datasets into actionable insights and developing intelligent systems that drive business impact.\n\nThroughout my career, I have consistently applied advanced statistical models, machine learning algorithms, and generative AI techniques to solve a diverse range of business challenges. Whether it's predictive analytics, optimization, or building intelligent AI-driven systems, I have a proven track record of delivering valuable data-driven solutions.\n\nTo stay at the forefront of the rapidly evolving data science field, I am committed to continuous learning and regularly update my skills with emerging techniques and tools. Being passionate about driving business outcomes through data science, I actively seek new challenges and opportunities to apply my skills. If you are interested in exploring potential opportunities, please feel free to reach out to me.",
+    "education": [
+      "Georgia Institute of Technology",
+      "Manipal Institute of Technology"
+    ],
+    "companies": [
+      "Tiger Analytics",
+      "Ugam",
+      "Merkle",
+      "Mitacs"
+    ],
+    "current_role": "Data Scientist at Tiger Analytics"
+  },
+  "hiraman-singh-0b1729b8": {
+    "actor_id": "hiraman-singh-0b1729b8",
+    "name": "hiraman singh",
+    "headline": "Sr.Project Manager/ Sr. Mechanical engineer M/S Vindhya Erectors Pvt Ltd.",
+    "location": "West Delhi, Delhi, India",
+    "bio": null,
+    "education": [
+      "firoj gandhi polytechniqe raibareli u.p."
+    ],
+    "companies": [
+      "S Coxcum Engineering (India) Pvt Ltd",
+      "M/S Sunilhitech Engineering  Pvt Ltd."
+    ],
+    "current_role": "executin,pllaning &Billing at M/S Sunilhitech Engineering  Pvt Ltd."
+  },
+  "surendra-singh-b719a627": {
+    "actor_id": "surendra-singh-b719a627",
+    "name": "Surendra Singh",
+    "headline": "Vice President Charles River Development, A State Street Company",
+    "location": "Burlington, Massachusetts, United States",
+    "bio": "16+ yrs of Tech. experience in Finance domain including 3+ yrs as Oracle DBA and 13+ as DevOps expert. Hands on experience on Tools and Technologies - CI tools - Teamcity, Harness.io CD tools - ArgoCD Scripting - Terraform, Python, Perl Cloud - Azure Tools and Technologies - Kubernetes, WSS, Artifactory Build technologies and framework - Maven, Ant, Gradle RDBMS - Oracle 9i/10g/11g/12C, MS SQL 10/12/14/19 Deployment Tools - Ansible and Chocolate. Messaging tools - JMS , Artemis Code repository tools - Git and Perforce",
+    "education": [
+      "Rajasthan University"
+    ],
+    "companies": [
+      "Sapient",
+      "Accenture Technology Solutions",
+      "Sonata Software",
+      "Charles River Development",
+      "Flextronics"
+    ],
+    "current_role": "Vice President at Charles River Development"
+  },
+  "alexander-van-de-voorde-01b058a7": {
+    "actor_id": "alexander-van-de-voorde-01b058a7",
+    "name": "Alexander van de Voorde",
+    "headline": "Associate Partner at McKinsey & Company | Passionate about Sustainability in Heavy Industries",
+    "location": "Brussels Metropolitan Area",
+    "bio": "              Friends and colleagues describe me as an energized, ambitious and curious person who brings a vibrant mood wherever he goes. I\u2019ve lived in many cosmopolitan cities, from Tokyo to London, via Berlin, Beijing and Brussels, where I developed the desire to keep growing as a global citizen and build on my passion of working with inspiring and entrepreneurial people",
+    "education": [
+      "The London School of Economics and Political Science (LSE)",
+      "University of Leuven",
+      "Tsinghua University",
+      "University of Leuven",
+      "Sint Jan-Berchmans College",
+      "Lycee Franco-Japonais de Tokyo (LFJT)"
+    ],
+    "companies": [
+      "L'Or\u00e9al",
+      "irex Consulting",
+      "McKinsey & Company",
+      "Hotel Le Plaza Brussels",
+      "Loyens & Loeff",
+      "YERA"
+    ],
+    "current_role": "Associate Partner at McKinsey & Company"
+  },
+  "surenreddykatta": {
+    "actor_id": "surenreddykatta",
+    "name": "Suren Reddy Katta",
+    "headline": "Co-Founder & CEO at Cloudely",
+    "location": "Sunnyvale, California, United States",
+    "bio": "Management staff with knowledge in Lead-to-Cash, Hire-to-Retire, Procure-to-Pay,Record to Report and FP&A business functions.\n\nwww.Cloudely.com | SaaS advisory & solution delivery\n\nwww.konfeeg.com | marketplace \n\nwww.InfoComply.com | enterprise compliance platform \n\nwww.CloudSyncApp.com | AppExchange accelerator & data exchange application.\n\n\nEmpower & enhance HR,Sales, Revenue Ops, Customer Support, Marketing, Legal and Finance business functions for global organizations.\n",
+    "education": [
+      "Nagarjuna University",
+      "Sarvail - APRSS",
+      "Osmania University"
+    ],
+    "companies": [
+      "TIBCO Software Inc.",
+      "Meru Networks",
+      "SQL Star International",
+      "LinkedIn",
+      "Facebook",
+      "Equinix",
+      "Wipro Technologies",
+      "LifeStyle Furnishings Intl.",
+      "Cloudely, Inc",
+      "Wipro Systems",
+      "Cloudely",
+      "Juniper Networks"
+    ],
+    "current_role": "Co-Founder & CEO at Cloudely"
+  },
+  "kunal-chauhan-2807": {
+    "actor_id": "kunal-chauhan-2807",
+    "name": "Kunal Chauhan",
+    "headline": "SDE @Bain & Company | ex - @Deloitte | DTU'23",
+    "location": "Delhi, India",
+    "bio": null,
+    "education": [
+      "Delhi Technological University (Formerly DCE)",
+      "Ryan International School"
+    ],
+    "companies": [
+      "Deloitte",
+      "The Sparks Foundation",
+      "Bain & Company"
+    ],
+    "current_role": "Senior Associate Engineer at Bain & Company"
+  },
+  "shahid2017": {
+    "actor_id": "shahid2017",
+    "name": "Shahid Rabbani",
+    "headline": "M.Tech at National Institute of Technology, Calicut, India ",
+    "location": "Kozhikode, Kerala, India",
+    "bio": null,
+    "education": [
+      "National Institute of Technology Calicut",
+      "Dr APJ Abdul Kalam Technical University",
+      "Dr. A.P.J. Abdul Kalam Technical University",
+      "Central Board of Secondary Education",
+      " Jamia Millia Islamia",
+      "Jamia Millia Islamia",
+      "Srimati sridevi awasiya vidhyapeeth,Agra"
+    ],
+    "companies": [
+      "Hibild Contractors, Engineers & Consultants"
+    ],
+    "current_role": ""
+  },
+  "jeffdav": {
+    "actor_id": "jeffdav",
+    "name": "Jeffrey D.",
+    "headline": "Software systems engineering.",
+    "location": "Greater Seattle Area",
+    "bio": "Systems engineer and engineering leader comfortable up and down the stack.  Primary experience with C/C++ and mobile development in Objective-C, Swift, and Java.  Recent experience with Rust, Scala and Python.\n\nhttps://github.com/jeffdav",
+    "education": [
+      "University of Washington",
+      "Missouri University of Science and Technology"
+    ],
+    "companies": [
+      "Booyah",
+      "The Browser Company",
+      "Meta",
+      "Xeriton Corporation",
+      "Microsoft",
+      "Mombo Labs",
+      "Apple",
+      "Cooliris"
+    ],
+    "current_role": "Software Engineer at Apple"
+  },
+  "spandan-roy-644a7142": {
+    "actor_id": "spandan-roy-644a7142",
+    "name": "Spandan Roy",
+    "headline": "Assistant Professor at Robotics Research Center (RRC), IIIT Hyderabad",
+    "location": "Hyderabad, Telangana, India",
+    "bio": "I am an Assistant Professor at the Robotics Research Center in IIIT Hyderabad (IIITH). I broadly work in the area of nonliear control theory and their applications in Euler-Lagrange systems: more specifically, my research areas include adaptive-robust control, artificial time delay based control design, switched systems and their applications in robotics (I have also worked on other systems other than robots with my collaborators). My lab is well equipped robotic experimental facilities (see the recent works) and my research group always has space for motivated, hard-working people (long-term interns, potential MS(R) and PhD students). Prospective research students may check IIITH website for admission or directly contact me.",
+    "education": [
+      "Indian Institute of Technology, Delhi",
+      "Academy of Scientific and Innovative Research (AcSIR), CSIR-CMERI",
+      "Techno India, Saltlake, West Bengal University of Technology (WBUT)",
+      "Birati High School"
+    ],
+    "companies": [
+      "Technichal University of Delft (TU Delft)",
+      "CSIR-Central Mechanical Engineering Research Institute",
+      "International Institute of Information Technology Hyderabad (IIIT-H)"
+    ],
+    "current_role": "Assistant Professor at International Institute of Information Technology Hyderabad (IIIT-H)"
+  },
+  "shridhar-kshirsagar": {
+    "actor_id": "shridhar-kshirsagar",
+    "name": "Shridhar Kshirsagar",
+    "headline": "GenAI Developer @Citi | MS in AI from UNT| Tapia Scholar '23 | Tapia Reviewer '24 | Machine Learning Engineer | Artificial Intelligence | Data Scientist | Electronics and Telecommunication Engineer | Musician",
+    "location": "United States",
+    "bio": "Generative AI Engineer at Citibank with a Master's Degree in Artificial Intelligence and over 6 years of academic and professional experience in AI. Specializing Large Language Models and Prompt Engineering techniques to provide efficient IVR solutions and build a cost efficient BAU flow. Scholarship recipient and poster presenter at Tapia Conference 23. Reviewer at Tapia 24, Tapia 25.",
+    "education": [
+      "University of North Texas",
+      "Savitribai Phule Pune University"
+    ],
+    "companies": [
+      "Citi",
+      "University of North Texas",
+      "Tata Consultancy Services",
+      "SoftStandard Solutions",
+      "Ideal Group of Computer Experts (IGCE)"
+    ],
+    "current_role": "Generative AI Engineer at Citi"
+  },
+  "esperchawah": {
+    "actor_id": "esperchawah",
+    "name": "Esper Chawah",
+    "headline": "Certified Training Manager/Director",
+    "location": "Greater Kitchener-Cambridge-Waterloo Metropolitan Area",
+    "bio": "Currently as a Training & Certification consultant with decades of experience in the field, I help organizations build high-stakes, legally defensible certification programs that align with their business objectives and customer needs. I provide consulting services and guidance on best-practices and processes, such as role definition, job task analysis, blueprinting, item writing, analysis and monitoring.\n\nPreviously, I was a Certification Program Manager at Cloudera, where I redesigned and relaunched the Cloudera Certification Program (CDP) for cloud and data professionals. I developed and documented exam development processes ensuring reliability, validity, and legal defensibility. I designed and developed four exams in one year, covering different roles and technologies. I also have experience as a Director of Customer Training at Vena Solutions, where I led a team that delivered high-quality, instructor-led and eLearning programs with high learner satisfaction. I updated the curriculum strategy to create more efficient, role-based learner paths, and implemented a standardized training delivery methodology for increased consistency.\n\nI am certified as a Training Manager/Director by Langevin Learning Services, and I am pursuing a BEd in Adult and Continuing Education and Teaching from Brock University. I have strong skills in customer relationship management, people management, training and development, certification and accreditation program management, curriculum design, strategic planning, needs analysis, and adult learning principles. I am passionate about creating and delivering impactful learning and certification solutions that enable learners to achieve their goals and advance their careers.",
+    "education": [
+      "Lambton College",
+      "Brock University",
+      "Lambton College"
+    ],
+    "companies": [
+      "Cloudera",
+      "Informatica",
+      "BlackBerry",
+      "Vena Solutions",
+      "Symantec",
+      "VAST Data",
+      "Infor",
+      "High Stakes Certification",
+      "Shopify"
+    ],
+    "current_role": "Technical Certification Manager at VAST Data"
+  },
+  "pawan-kumar-chandana-a90b6514": {
+    "actor_id": "pawan-kumar-chandana-a90b6514",
+    "name": "Pawan Kumar Chandana",
+    "headline": "Co-Founder& CEO at Skyroot Aerospace | Forbes 30-Under-30 Asia | IIT-Kgp | Part of team that launched India\u2019s first private rocket to Space | Always looking for amazing people to join Team Skyroot-InMail me your resume.",
+    "location": "Hyderabad, Telangana, India",
+    "bio": "I believe rockets are the most fascinating machinery ever built by humans, and are now in need of a new techno-economic makeover, to open up a new frontier in space access and exploration. Hands on engineer who loves building high performance rockets & teams. On a life long mission to Open Space for All at Skyroot (www.skyroot.in) More: 1. https://youtu.be/J1YefisO5Ok 2. https://youtu.be/J9bzeHdNpDI",
+    "education": [
+      "Indian Institute of Technology, Kharagpur"
+    ],
+    "companies": [
+      "Skyroot Aerospace",
+      "ISRO - Indian Space Research Organization"
+    ],
+    "current_role": "Co-Founder & CEO at Skyroot Aerospace"
+  },
+  "ashishkolvalker": {
+    "actor_id": "ashishkolvalker",
+    "name": "Ashish Kolvalker, PCC",
+    "headline": "HR Leader & Consultant | Coach | People, Culture, Leadership",
+    "location": "Hamburg, Hamburg, Germany",
+    "bio": "I am passionate about helping both individuals and organizations become more effective at what they do!\n\nI enjoy working on assignments & roles which help build people strategy, build capable leaders, and effective, high performing teams.\n\n- As a Consultant, I advise organizations in People Strategy, Performance, Culture, Change, Leadership Development & Org Effectiveness. I bring several years of experience as a global HR Leader. \n- As a Coach, I partner with individuals who feel they are 'stuck' in their personal or professional lives - corporate leaders, managers, founders / entrepreneurs. I am a Professional Certified Coach (PCC) through the International Coaching Federation (ICF). I coach on careers, cross-culture integration and effectiveness, performance, leadership & executive presence, emotional intelligence, life & well-being and relationships.\n\nI am reachable at ashish.kolvalker@gmail.com. \n\n-------------------------------------------------------------------------\nRead more about my experiences below:\n\nHR Leadership & Consulting:\nAs an HR leader, I have led HR teams & driven transformation journeys globally. I enjoy partnering with business leaders & help them 'win from a People Strategy' perspective. I have led global projects in Leadership Development, Talent Management, Performance Management, HR Technology, Rewards, OD, L&D & Culture. My experience pans European markets (Germany, France, UK, Croatia, Spain), APAC and US. \n\nLeadership Development & Coaching:\nI have worked with more than 200 Leaders / Managers / Founders & partnered to help achieve maximum potential. As a Leadership Development expert, I have led many projects & facilitated workshops for more than 1000 Managers & Leaders. I am an assessor for hiring and developing leaders. I am certified on tools like Hogan, DISC, OPQ.\n\nAs a Corporate HR leader:\nI have worked with entrepreneur-led early-stage organizations & large, matrixed MNCs (Tech, Manufacturing, Insurance, Consulting, etc.). In my last role, I led HR globally for a B2B SaaS Tech org, reported into two CEOs over 5 years, and helped them grow five-fold to a unicorn valuation. I helped scale the organization in EMEA & US, and managed acquisitions across US & Europe. I have also hired and mentored HR teams globally by building strong HR competencies. \n\nEducation: BE (Computers), MBA (Human Resources), SHRM-SCP\n\nI write actively in the space of People & Culture (do read my articles in the Publications section below).\n\nIf you are someone looking for some quick mentoring, reach me on TopMate: https://topmate.io/ashishkolvalker",
+    "education": [
+      "MDI Gurgaon",
+      "Harvard Business School Online",
+      "Padre Conceicao College of Engineering, Verna (PCCE) ",
+      "Padmashri Vasantrao Dhempe Higher Secondary School of Arts & Science, Panaji, Goa",
+      "Mushtifund High School, Panaji, Goa",
+      "Sharada Mandir"
+    ],
+    "companies": [
+      "SkillsHACK",
+      "Jombay",
+      "Torch Coaching",
+      "Speexx",
+      "Amagi Corporation",
+      "MantraCare",
+      "uExcelerate",
+      "Intellect",
+      "Aon"
+    ],
+    "current_role": "Freelance HR Consultant & Coach - Talent, Culture, Leadership at "
+  },
+  "naman-gaur": {
+    "actor_id": "naman-gaur",
+    "name": "Naman Gaur",
+    "headline": "Sr. Talent Acquisition Specialist",
+    "location": "Noida, Uttar Pradesh, India",
+    "bio": "As an experienced Technical Recruiter, I specialize in sourcing and hiring top talent in the Software Engineering and IT industries. I have a proven track record of successfully placing highly qualified candidates in a variety of roles, from entry-level positions to executive leadership roles. With a deep understanding of the technical landscape, I stay up-to-date on the latest trends and advancements to ensure that I'm able to match the best candidates with the right opportunities. I am committed to build strong relationships with clients and candidates alike, and I'm always looking for new ways to improve and refine my recruiting strategies. Let's connect and explore how I can help you in your Job search.",
+    "education": [
+      "Guru Gobind Singh Indraprastha University",
+      "Kendriya Vidyalaya",
+      "Kendriya Vidyalaya"
+    ],
+    "companies": [
+      "PaddleLift Pvt. Ltd.",
+      "HuntingCube Recruitment Solutions"
+    ],
+    "current_role": "Senior Recruitment Specialist (L2) at PaddleLift Pvt. Ltd."
+  },
+  "recruiterfox": {
+    "actor_id": "recruiterfox",
+    "name": "Emily Fox",
+    "headline": "Americas DEI",
+    "location": "Findlay, Ohio, United States",
+    "bio": "Imagine a world where every voice within a company is not just heard but resonates with purpose. That's where I come in. I'm the storyteller, the strategist, and the spotlight for our most valuable assetour people. I weave the thread that connects our diverse talents across the globe, ensuring our culture and values shine through in all communications. I delve into the data, tracking engagement, learning from feedback, and always keeping a finger on the pulse of innovation. This ensures our communications are not just timely and relevant but also pioneering and effective. My approach blends proactive involvement with genuine passion. I am dedicated to empowering every member of our company with the knowledge, tools, and enthusiasm they need for our collective journey. My goal is to make sure that journey is not just engaging but also richly rewarding for all involved.",
+    "education": [
+      "Bowling Green State University"
+    ],
+    "companies": [
+      "ADP",
+      "Collegiate Connection LLC",
+      "Accenture",
+      "EY"
+    ],
+    "current_role": "Assistant Director, Americas Diversity, Equity & Inclusiveness at EY"
+  },
+  "shreya-heda": {
+    "actor_id": "shreya-heda",
+    "name": "Shreya Heda",
+    "headline": "Product Designer",
+    "location": "Bengaluru, Karnataka, India",
+    "bio": "With 6+ years in design and 3+ years specializing in product design, I prioritize functionality over form, ensuring exceptional user experiences. Beyond product design, I absolutely love crafting captivating pitch decks that leave a lasting impact. Let's collaborate and elevate your design game!",
+    "education": [
+      "MIT Institute of Design"
+    ],
+    "companies": [
+      "Jar",
+      "Hallparty",
+      "Commenda",
+      "MagariIndia",
+      "Mave Health",
+      "DYBOTM"
+    ],
+    "current_role": "Product Designer at Commenda"
+  },
+  "nitishagarwal1039": {
+    "actor_id": "nitishagarwal1039",
+    "name": "Nitish Agarwal",
+    "headline": "Planning Analyst at ExxonMobil | IIT Delhi | INSA Lyon ",
+    "location": "Bengaluru, Karnataka, India",
+    "bio": null,
+    "education": [
+      "Indian Institute of Technology, Delhi",
+      "INSA Lyon - Institut National des Sciences Appliqu\u00e9es de Lyon",
+      "Krishna Public School Raipur",
+      "N.H. Goel World School"
+    ],
+    "companies": [
+      "Board for Hostel Management, IIT Delhi",
+      "Board for Sports Activities (BSA) IIT Delhi",
+      "NEW RAIL ENGINEERING srl",
+      "Adventure Club, IIT Delhi",
+      "GoodSpace",
+      "Board for Recreational and Creative Activities, IIT Delhi",
+      "ExxonMobil",
+      "Invest India",
+      "Board for Student Welfare (BSW), IIT Delhi"
+    ],
+    "current_role": "Planning Analyst at ExxonMobil"
+  },
+  "aleksanderponiewierski": {
+    "actor_id": "aleksanderponiewierski",
+    "name": "\ud83d\udca2Aleksander Poniewierski, PhD",
+    "headline": "Technology and Business Advisor | exPartner @ EY (emeritus)| Author of SPEED no limits in the digital era | IoT World Solution Leader 2020 | Mentor | Keynote speaker | Entrepreneur | Photographer",
+    "location": "Warsaw Metropolitan Area",
+    "bio": "As an ex-partner and the Global Head of Digital and Emerging Technology at EY (emeritus), I help clients leverage the power of digital technologies to optimize their processes, innovate their business models, and secure and protect their assets from external threats. With over 25 years of experience in IT management, security, and consulting, I have led and delivered complex IT and OT projects for some of the largest companies in the EMEIA region and beyond.\n\nI am a globally recognized expert and keynote speaker in the fields of cybersecurity and critical infrastructure protection, as well as IoT and OT solutions. I am also the author of SPEED no limits in the Digital Era, a book that explores how to harness the potential of digital transformation in the fast-changing and competitive world. My mission is to be a trusted advisor and a thought leader for clients and peers and to drive value creation and innovation through digital and emerging technologies.",
+    "education": [
+      "Harvard Business School",
+      "Stanford University",
+      "Akademia Ekonomiczna w Poznaniu",
+      "IMD Business School",
+      "Carnegie Mellon University",
+      "University of Silesia in Katowice",
+      "III LO Katowice"
+    ],
+    "companies": [
+      "Arthur Andersen & Co.",
+      "PKO Bank Polski",
+      "EY",
+      "Centertel",
+      "Naveen Jindal School of Management, UT Dallas",
+      "OChK",
+      "Warsaw University of Technology",
+      "Netia",
+      "Aleksander Poniewierski Consulting"
+    ],
+    "current_role": "Member of the Board of Advisors at Warsaw University of Technology"
+  },
+  "simanta-ghosh": {
+    "actor_id": "simanta-ghosh",
+    "name": "Simanta Ghosh",
+    "headline": "Building Absolute\u00ae | Bio-Ingredients - Food, Nutrition & Healthcare",
+    "location": "Bengaluru, Karnataka, India",
+    "bio": null,
+    "education": [
+      "Indian Institute of Technology, Kharagpur"
+    ],
+    "companies": [
+      "Absolute\u00ae",
+      "Samunnati",
+      "FORD India Pvt. Ltd.",
+      "ITC Limited",
+      "IIT Kharagpur",
+      "WMG, University of Warwick",
+      "ZETWERK"
+    ],
+    "current_role": "Assistant Vice President at Absolute\u00ae"
+  },
+  "devesh-kabra-024934257": {
+    "actor_id": "devesh-kabra-024934257",
+    "name": "Devesh Kabra",
+    "headline": "Financial Research Associate @D.E.Shaw (PPO) | Hindu'25 | VP - Hindu Consulting Group | Economics Major | Sleepy Owl Coffee | IPV | Enactus | F&IC",
+    "location": "Guwahati, Assam, India",
+    "bio": "Continuing to push myself outside my comfort zone and thrive in dynamic environments. Always bringing something unique and indispensable to the table!\n\nLooking ahead, I am eager to continue my growth, constantly learning and acquiring new knowledge. Alongside my career aspirations, I strongly believe in cherishing unforgettable moments and creating the best memories along the way. Let's connect and explore opportunities for collaboration!",
+    "education": [
+      "Hindu College, University of Delhi",
+      "Christ University, Bangalore",
+      "Don Bosco School Guwahati",
+      "Don Bosco School Guwahati"
+    ],
+    "companies": [
+      "D. E. Shaw India Private Limited",
+      "The D. E. Shaw Group",
+      "The Placement Cell, Hindu College",
+      "Enactus Hindu College",
+      "Hindu Consulting Group",
+      "oll.co",
+      "Inflection Point Ventures",
+      "Sleepy Owl Coffee",
+      "Finance & Investment Cell, Hindu College",
+      "Department Of Economics, Hindu College"
+    ],
+    "current_role": "Financial Research Associate at The D. E. Shaw Group"
+  },
+  "nutlope": {
+    "actor_id": "nutlope",
+    "name": "Hassan El Mghari",
+    "headline": "Developer Relations at Together AI",
+    "location": "New York, New York, United States",
+    "bio": "I'm a software engineer specializing in building full-stack AI applications using TypeScript, React and Next.js. My AI apps have a combined 4 million users & 30k GitHub Stars between:\n\n- roomGPT.io\n- llamaCoder.io\n- blinkshot.io\n- restorePhotos.io\n- logo-creator.io\n- aicommits.com\n- turboseek.io\n- llamatutor.com\n- usenotesgpt.com\n- pdftochat.com\n- explorecareers.io\n\nI currently lead developer relations at Together.ai where I lead a team of 4 and do a mix of building AI apps, creating content, speaking at conferences/hackathons, and helping developers build with AI.",
+    "education": [
+      "Drexel University"
+    ],
+    "companies": [
+      "Vercel",
+      "Sleek",
+      "Together AI",
+      "Fig",
+      "UltraShock Gaming LLC"
+    ],
+    "current_role": "Director of Developer Relations at Together AI"
+  },
+  "psharma51": {
+    "actor_id": "psharma51",
+    "name": "Priyanshu Sharma",
+    "headline": "Operations Analyst || Compliance & Onboarding || Simplifying A2P 10DLC Registration || Telus Digital || Keen to learn more...",
+    "location": "Mathura, Uttar Pradesh, India",
+    "bio": "A2P Process Analyst , onboarding, compliance, and issue resolution. Strong communication, problem-solving, and analytical skills with expertise in Excel, AI/Chat GPT, and process optimization.\n\nSkills:\n\nCustomer Experience Optimization |\nSeamless Onboarding & Compliance | Process Automation | Data-Driven Decision Making | Al & ChatGPT-Enhanced Support |\n\nBasic Excel & Google Suite",
+    "education": [
+      "GLA University",
+      "GLA University"
+    ],
+    "companies": [
+      "Inox Wind Ltd.",
+      "R.R. Weighing System",
+      "HarperCollins Publishers",
+      "Cureya",
+      "Saturangle, GLA University",
+      "IFortis Corporate",
+      "TELUS Digital",
+      "MyCaptain"
+    ],
+    "current_role": "Operations Analyst at TELUS Digital"
+  },
+  "joecontrera": {
+    "actor_id": "joecontrera",
+    "name": "Joe Contrera",
+    "headline": "Helping Extraordinary Leaders...Achieve Extraordinary Results!",
+    "location": "Chandler, Arizona, United States",
+    "bio": "Joe Contrera is the president and founder of ALIVE @ WORK\u00ae LLC.  A company dedicated to helping, Extraordinary Leaders Achieve Extraordinary Results. \n\nAs a Leadership Speaker, Joe inspires his audiences to take 100% accountability and ownership for everything in their lives and teaches them how to put the accountability, ownership, and impact of the work where it belongs ... with their people. \n\nAs an Executive Leadership Coach, Joe challenges leaders to go beyond their comfort zones and lead from their strengths. He teaches them how to influence others so that they can achieve buy-in across the enterprise.    \n\nHis Power versus Force Model of Leadership & Influence is literally changing the way leaders lead. Rooted in 9 basic leadership values,  leaders are waking up to a new and different way to increase productivity and get  results.  Joe\u2019s successful sales and sales leadership background gives him the unique ability to help leaders increase their Influencing Quotient (InQ) by developing their interpersonal skills so they  can increase their impact and scale-ability to get even better results. ",
+    "education": [
+      "The Ohio State University Fisher College of Business"
+    ],
+    "companies": [
+      "ALIVE AT WORK L.L.C.",
+      "DesignTex Group (div. of Steelcase Inc.)",
+      "National Speakers Association",
+      "ALIVE@WORK \u00ae"
+    ],
+    "current_role": "Leadership Speaker, Author, & Executive Coach. at ALIVE AT WORK L.L.C."
+  },
+  "gkcs": {
+    "actor_id": "gkcs",
+    "name": "Gaurav Sen",
+    "headline": "Founder, InterviewReady",
+    "location": "Mumbai, Maharashtra, India",
+    "bio": "Founder of InterviewReady. We make software interviews simple.\n\nMy YouTube channel on system design and artificial intelligence has more than 650k subscribers. I have previously worked as an engineer at Uber, DirectI, and Morgan Stanley.\n\nCheck out our courses here: https://interviewready.io/",
+    "education": [
+      "Cornell University",
+      "Fr. Conceicao Rodrigues College Of Engineering",
+      "Lilavatibai Podar School",
+      "R N Podar"
+    ],
+    "companies": [
+      "InterviewReady",
+      "Directi",
+      "Morgan Stanley",
+      "Uber"
+    ],
+    "current_role": "Founder at InterviewReady"
+  },
+  "snehanshusaha": {
+    "actor_id": "snehanshusaha",
+    "name": "Snehanshu Saha",
+    "headline": "Professor, Dept. of CSIS, BITS Goa and Head-Anuradha and Prashanth Palakurthi Centre for Artificial Intelligence Research (APPCAIR-All Campuses of BITS Pilani), Head-IKA (All Campuses of BITS Pilani); F-IETE",
+    "location": "South Goa, Goa, India",
+    "bio": "I focus on developing a strong theory group on Machine learning and Deep Learning, specifically addressing the complex issue of optimization in Learning and attempting to unfold the \u2018black-box\u2019 deep learning techniques. I develop methods in Computational Learning Theory (COLT) and Mathematics of Data Science (MDS) Techniques and focus on building Pointwise smooth approximations of gradient, discovering activation functions from data, smoothness and convexity studies of loss functions, methods in interpretable deep learning, novel loss functions in back-propagation, Chaos-causality in Deep Neural Networks and pruning/compression in Deep Networks. My Goals include Efficient, reliable and robust Inferences (One Landscape) via tools such as Measure Theory, Non-Linear Optimization, Functional Analysis, Econometrics and Dynamical Systems. I apply the methods to solve problems in Biology, Healthcare, AstroInformatics (AIM), Transportation, and other Social good applications (AML).\nRecent Notable Publications (2022-23):\n1. N.Arya, A. Mathur, Sriparna Saha, S.Saha; Improving the Robustness and Stability of a Machine Learning Model for Breast Cancer Prognosis through the use of Multi-Modal Classifiers; Scientific\nReports (Nature) [Q1, I.F: 5]\n2. N.Arya, A. Mathur, S.Saha, Sriparna Saha; Proposal of SVM Utility Kernel for Breast Cancer Survival Estimation; IEEE/ACM Transactions on Computational Biology and Bioinformatics [Q1, I.F: 3.74]\n3. J.Sarkar. S.Saha, S.Sarkar; Efficient Anomaly Identification in Temporal and Non-Temporal Industrial Data using Tree Based Approaches; Applied Intelligence [Q1, I.F: 5.4]\n4. Aishwarya. M, V.Raychoudhury, S. Saha, S.Kar, Anusha. K, CARE-Share: A Cooperative and Adaptive Ride Strategy for Distributed Taxi Ride Sharing, IEEE Transactions on Intelligent Transportation Systems [Q1, I.F: 9.98]\n5. A. Tambewkar, A. Maiya, Soma.S. Dhavala and S.Saha; Estimation and Applications of Quantiles in Deep Binary Classification; IEEE Transactions on Artificial Intelligence\n6. Tejas Prashanth, Snehanshu Saha, Sumedh Basarkod, Suraj Aralihalli, Soma S Dhavala, Sriparna Saha, and Raviprasad Aduri; LipGene: Lipschitz continuity guided adaptive learning rates for fast convergence on Microarray Expression Data Sets\u2019 [Q1, I.F: 3.74]\n7. Rohan Mohapatra, Snehanshu Saha, Carlos A. Coello Coello, Anwesh Bhattacharya, Soma S. Dhavala and Sriparna Saha; AdaSwarm: Augmenting gradient-based optimizers in Deep Learning with Swarm Intelligence, the IEEE Transactions on Emerging Topics in Computational Intelligence [Q1, I.F: 4.9]",
+    "education": [
+      "The University of Texas at Arlington",
+      "University of Texas at",
+      "Clemson University",
+      "Clemson University",
+      "BD School",
+      "BD School",
+      "University of Calcutta",
+      "cu"
+    ],
+    "companies": [
+      "The University of Texas at Arlington",
+      "International Trading",
+      "PES",
+      "Birla Institute of Technology and Science, Pilani",
+      "IETE",
+      "University of Texas at El Paso",
+      "Apple Software Pvt. Ltd,India",
+      "Center for AstroInformatics Modeling and Simulation, APPCAIR, BITS Pilani K K Birla Goa Campus",
+      "Apple Software Pvt ltd",
+      "BITS Pilani Goa Campus, Dept. of CSIS and Head-APPCAIR (All Campuses)"
+    ],
+    "current_role": "Professor at BITS Pilani Goa Campus, Dept. of CSIS and Head-APPCAIR (All Campuses)"
+  },
+  "ayesha-yadav": {
+    "actor_id": "ayesha-yadav",
+    "name": "Ayesha Yadav",
+    "headline": "Design Engineer at NXP Semiconductors",
+    "location": "Uttar Pradesh, India",
+    "bio": "",
+    "education": [
+      "Indraprastha Institute of Information Technology, Delhi",
+      "Jamia Millia Islamia",
+      "army public school, noida",
+      "Indraprastha Institute of Information Technology, Delhi"
+    ],
+    "companies": [
+      "NXP Semiconductors"
+    ],
+    "current_role": "Design Engineer at NXP Semiconductors"
+  },
+  "shiv-madishetty-3a133ab": {
+    "actor_id": "shiv-madishetty-3a133ab",
+    "name": "Shiv MadiShetty",
+    "headline": "Creative Brand Design | KPN Fresh | Dabur \ud83c\udde6\ud83c\uddea | Swiss Arabian Perfumes | 20+ Years of Expertise Across FMCG, CPG, Retail, F&B, Grocery, Beauty Personal Care, E-Com \ud83d\uded2 Delivering Strategic Branding and NPD Innovation \u2728",
+    "location": "Dubai, United Arab Emirates",
+    "bio": "With over 20 years of experience in the creative industry, including 18+ years in the UAE, I bring extensive expertise in advertising, digital, branding, activation, and trade across international markets. As a Creative Lead Design/Manager at Dabur International, Dubai, I have successfully spearheaded impactful campaigns, product designs, packaging, and marketing initiatives for renowned brands such as ORS Hair Care, Vatika Afro Naturals, Long & Lasting, Dermoviva and Herboline Skincare.\n\nMy portfolio showcases collaborations with global names like Dabur FMCG/ F&B Super-MaxWorld Shaving Razors, Swiss Arabian Perfumes, Revlon StreetWare Cosmetics, Taj Group of Hotels, ITC, Zydus, Signutra Pharmaceuticals, Al Husaifa D\u00e9cor and Bhima Jeweller, consistently delivering innovative and results driven creative solutions.\n\nKey Expertise: I specialize in conceptualizing and executing campaigns that deliver exceptional results by leveraging design thinking methods, problem-solving skills, critical thinking, efficient brainstorming, Creative/Art Direction. My core strength lies in attention to detail and developing innovative design solutions that align with business objectives, brand awareness strategic goals. \n\nKey Responsibilities:\n\n\u2022 Designing engaging creative graphic content, illustrations, and infographics.\n\u2022 Managing graphic design projects from conception to delivery.\n\u2022 Generating fresh, creative concepts for diverse marketing initiatives.\n\u2022 Maintaining brand consistency across all marketing platforms and projects.\n\u2022 Reviewing junior designer drafts to ensure quality and brand consistency.\n\u2022 Collaborating between stake holder, marketing and design teams to meet project deadlines.\n\u2022 Staying updated with the latest trends and developments in the design industry.\n\u2022 Cross-functional collaboration - Middle East, Sub Sahara Africa, Turkey, US, UK, India,\n\nI thrive on challenges, excel under pressure, and value teamwork as a key driver for success. My ability to manage all facets of graphic design with precision and creativity makes me a reliable and results oriented professional.",
+    "education": [
+      "Bangalore university Chitrakala Parishad"
+    ],
+    "companies": [
+      "The Manipal Group",
+      "Swiss Arabian Perfumes Group",
+      "The Creative Group",
+      "Dabur International Ltd",
+      "MASS Marketing And Advertising",
+      "SuperMaxWorld"
+    ],
+    "current_role": ""
+  },
+  "shivansh-mathur": {
+    "actor_id": "shivansh-mathur",
+    "name": "Shivansh Mathur",
+    "headline": "Computer Vision @ Gamechanger | Ex- Walmart & Adobe | Alum- Virginia Tech & DTU",
+    "location": "Blacksburg, Virginia, United States",
+    "bio": "Sports Analytics using Computer Vision.\n\nWith experience at Adobe and Walmart, I\u2019ve worked on a range of projects that pushed me to think creatively and develop efficient solutions. I\u2019m skilled in Java, Python, and C++, and I enjoy tackling new challenges and learning new tools.\n\nWhen I\u2019m not coding or crunching data, you\u2019ll find me playing soccer or out with my camera, trying to capture that perfect shot. I\u2019m here to connect, learn, and collaborate. If you\u2019re into tech or have some exciting ideas, let\u2019s chat and see what we can create together!",
+    "education": [
+      "Virginia Tech",
+      "Delhi Technological University",
+      "City Montessori School, Gomti Nagar Campus"
+    ],
+    "companies": [
+      "Adobe",
+      "Walmart",
+      "GameChanger",
+      "Virginia Tech"
+    ],
+    "current_role": "Computer Vision Engineer at GameChanger"
+  },
+  "pradyumn-sinha-1772b53a": {
+    "actor_id": "pradyumn-sinha-1772b53a",
+    "name": "Pradyumn Sinha",
+    "headline": "Quant Dev at Millennium | ex-Google, Tower Research Capital",
+    "location": "Delhi, India",
+    "bio": "Software Engineer currently working at Google with past experience in the HFT space.",
+    "education": [
+      "Delhi College of Engineering",
+      "Delhi Public School - R. K. Puram",
+      "Creane Memorial High School "
+    ],
+    "companies": [
+      "UAS-DTU",
+      "Millennium",
+      "Tower Research Capital",
+      "MIDAS-IIITD",
+      "Google"
+    ],
+    "current_role": "Quantitative Developer at Millennium"
+  },
+  "shivkumar-kalyanaraman-1942451": {
+    "actor_id": "shivkumar-kalyanaraman-1942451",
+    "name": "Shivkumar Kalyanaraman",
+    "headline": "CEO, Anusandhan National Research Foundation (ANRF), Govt of India | Distinguished Alumnus (IIT Madras & Ohio State)",
+    "location": "Bengaluru, Karnataka, India",
+    "bio": "* CEO, ANRF, an apex statutory Govt of India body aimed to transform the R&D landscape of India, with special focus on research in academia. \n\n* CTO, Energy Industry, Asia, Microsoft. Lead technology across Microsoft for the Energy Industry in Asia (Power & Utilities (incl. renewables, storage), Oil & Gas, Mining & Metals), with an emphasis on advanced AI & GenAI. \n\n* Executive GM in GE Power Conversion: built new Line of Business (LOB) P&L ground up (across product, sales, strategy/business dev) in e-Mobility and Commercial & Industrial (C&I) Solar.\n \n* Visionary technology and business executive with first-principles thinking, deep technology skills, strategic insight, client/business development experience and delivered business impact across USA, Europe, India, Asia Pacific (Australia, Brunei, Singapore, Thailand, Indonesia, Malaysia) & Middle East.\n\n* Developed and led industry solutions teams: Artificial Intelligence (AI), machine learning/deep learning, Internet of Things (IoT), blockchain, mobile & cloud computing, telecom and wireless / networking. \n\n* Developed & delivered industry solutions / platforms in areas such as energy & utilities (eg: renewables/solar/wind, storage, smart grids), natural resources (agri-business, mining, water, oil & gas), transportation (eg: electric vehicles (EV) & shared transportation), with deep strategic & financial business insights (eg: see linkedin articles). \n \n* Highly eminent/visible technologist. I leverage my education / academic past (as tenured full professor in RPI, USA (1997-2007)) and extensive networks to attract, hire and grow talent, with a special focus on diversity.\n\n* I develop and care about people: lead by inspiration, learning & encourage bold first-principles based thinking supported by frugal, relentless execution.  \n\n* 200+ peer reviewed technical papers; 35+ patents granted (50+ filed), IBM Master Inventor (2017).\n\nRecognition: Distinguished Alumni Award for Career Achievement (Ohio State University, 2021), Distinguished Alumnus Award (IIT Madras, 2021), IEEE Fellow (2010), ACM Distinguished Scientist (2010-11), Indian National Academy of Engineering (INAE) Fellow (2015), MIT Technology Review TR 100 (1999), Microsoft Gold Club (2024), IBM Master Inventor (2017).\n\nDegrees: B.Tech (CS, IIT Madras, 1989-93, All India #3 IIT JEE 1989), M.S. & Ph.D (CS, Ohio State U, 1993-1997), Executive MBA (RPI, 2003-2005)\n\n\nPublications: \nhttp://bit.ly/3XaMht1 [dblp] \nhttps://bit.ly/3Kejuww [Google Scholar] \nPatents: https://bit.ly/3PCL3kg\nPersonal Site (carnatic music education): www.shivkumar.org/music",
+    "education": [
+      "RPI Lally School of Management",
+      "Rensselaer Polytechnic Institute",
+      "The Ohio State University",
+      "Indian Institute of Technology, Madras",
+      "Little Flower Junior College",
+      "Little Flower High School",
+      "National Public School (NPS) - Indiranagar, Bangalore"
+    ],
+    "companies": [
+      "Rensselaer Polytechnic Institute (RPI)",
+      "IBM Research - India",
+      "Premonitia Inc.",
+      "IBM Research (UBD | IBM Centre)",
+      "IBM India Research Laboratory, Bangalore",
+      "GE Power Conversion",
+      "Microsoft",
+      "IBM",
+      "Ohio State University, Dept of Computer & Information Sciences",
+      "Indian Institute of Technology, Madras",
+      "Anusandhan National Research Foundation (ANRF)",
+      "IBM Research"
+    ],
+    "current_role": "Chief Executive Officer at Anusandhan National Research Foundation (ANRF)"
+  },
+  "adila-abdul-satar-b1947544": {
+    "actor_id": "adila-abdul-satar-b1947544",
+    "name": "Adila Abdul Satar",
+    "headline": "Public Sector Lead | Google Cloud Malaysia | Enabling Cloud & AI to Power Digital Government",
+    "location": "Singapore, Singapore",
+    "bio": "Technology sales leader with over 20 years of experience driving digital innovation across ASEAN evolving enterprise landscape. Specializing in cloud computing and enterprise software solutions, I've played an instrumental role in guiding organizations through their technological transformation journeys. My expertise spans strategic account management, partner development, and enterprise-level business growth, with a proven track record of helping organizations navigate the complexities of cloud adoption, AI integration, and digital modernization initiatives. Having worked extensively across the region's diverse markets, I've developed deep insights into the unique challenges and opportunities facing Asian enterprises as they embrace digital transformation and cloud-native solutions.",
+    "education": [
+      "The University of Queensland"
+    ],
+    "companies": [
+      "Amazon Web Services (AWS)",
+      "Microsoft",
+      "Cisco Systems",
+      "Oracle",
+      "Hewlett-Packard",
+      "Mesiniaga Berhad"
+    ],
+    "current_role": "Space & Satellite Solutions - ASEAN Business Lead at Amazon Web Services (AWS)"
+  },
+  "fasna-feroz-363a3219b": {
+    "actor_id": "fasna-feroz-363a3219b",
+    "name": "Fasna Feroz",
+    "headline": "Marketing Professional | Expert in Social Media Marketing, Google Analytics, and Email Marketing",
+    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
+    "bio": "Experienced Accountant skilled in Microsoft Excel, Customer Service, Microsoft Word, Data Entry, and Tally ERP. Strong accounting professional with a Bachelor of Commerce - BCom focused in Accounting and Finance from Pondicherry University.",
+    "education": [
+      "Pondicherry University",
+      "Pondicherry University",
+      "Kallada Academy",
+      "International Indian School, Dammam"
+    ],
+    "companies": [
+      "CarDekho Group",
+      "Ravz international free-zone",
+      "DreamLine Marketing",
+      "HubHigh",
+      "ZeroPi Tech Solutions Private Limited",
+      "Domshark",
+      "Web3 NYC Gallery"
+    ],
+    "current_role": ""
+  },
+  "vonscheel": {
+    "actor_id": "vonscheel",
+    "name": "Henrik von Scheel",
+    "headline": "Industry 4.0 Originator | Global Futurist #1 I Strategist | Speaker ...",
+    "location": "Switzerland",
+    "bio": "Best known as the originator of the 4th Industrial Revolution and the digital themes of today.\n\nWith over 20 years of expertise as a project manager in executive roles, he has shaped corporate strategies, empowered teams to execute, and manage profit & loss. Co-founder of Strategic Intelligence that set the future agenda for organizations like the World Economic Forum, PIF,  McKinsey and nations. \n\nAs a Professor of Strategy Management with 20 years dedicated to strategy research and futures studies. Most notable work co-authoring 153 Business, Architecture and IT standards such as SAP implementation method. His work has influenced 24 national economies and 23% of Fortune 500 high-growth companies, earning him recognition from the Financial Times as a leading authority on strategy.\n\nNamed the 'most influential futurist of our century, igniting two global themes' by CNBC. Acknowledged as 'the most influential management thinker of our times' by Sheikh Mohammed bin Rashid Al Maktoum, the ruler of Dubai, and recipient of the prestigious Knowledge Award for Intellectual Achievement and Knowledge Sharing, often referred to as the Nobel Laureate of Knowledge.\n\nHe serves as an Advisory Council Member for the Artificial Intelligence Act and EU Climate Change Board, where he plays a pivotal role in shaping the Green Deal, FIT for 55, and CBAM (Scope 1-3). \n\nAs a sought-after speaker and advisor on the toughest and most important issues in business today.\nGain more insight at www.von-scheel.com",
+    "education": [
+      "Arthur Lok Jack Global School of Business, University of the West Indies",
+      " Institute for Strategy & Futures Studies",
+      "Global University Alliance",
+      "Global University Alliance",
+      "INSEAD",
+      "IBM Learning Services",
+      "Kaufm\u00e4nnische Berufsfach Hanau, Germany"
+    ],
+    "companies": [
+      "Climate Asset Trust",
+      "German Federal Ministry of Transport and Digital Infrastructure",
+      "MITRE",
+      "European Union",
+      "Arthur Lok Jack Global School of Business, University of the West Indies",
+      "CarbonX",
+      "Google",
+      "Federal Ministry of Education and Research, Germany",
+      "Strategic Intelligence",
+      "World Economic Forum"
+    ],
+    "current_role": "Industry 4.0 originator I Futurist I Strategist  at Strategic Intelligence"
+  },
+  "sania-zehra-082137166": {
+    "actor_id": "sania-zehra-082137166",
+    "name": "Sania Zehra",
+    "headline": "Corporate Communications | Healthcare",
+    "location": "South Delhi, Delhi, India",
+    "bio": "A dedicated professional with operational experience in the field of Media Relations and Content Generation, Policy Planning, Research and Stakeholder engagements.",
+    "education": [
+      "Diplomatic Academy of Vienna",
+      "The University of Texas at Austin",
+      "Jamia Millia Islamia",
+      "University of Kashmir",
+      "Mallinson school"
+    ],
+    "companies": [
+      "Greater Kashmir",
+      "Meril",
+      "Layouts",
+      "Parliament of India",
+      "Office of Member of Parliament, Lok Sabha",
+      "BCM Public Relations",
+      "Adfactors PR",
+      "SDG Society"
+    ],
+    "current_role": "Manager - Corporate Communications at Meril"
+  },
+  "hjjainhimanshu": {
+    "actor_id": "hjjainhimanshu",
+    "name": "Himanshu Jain",
+    "headline": "Product Development",
+    "location": "Gurugram, Haryana, India",
+    "bio": "I'm a product developer. In my day job, I'm handling the product development, growth at Anar. I always look forward to connecting with people, discuss their idea and contribute something in their life. Technology, Travel & Marketing are the things, I am passionate about. They are truly an addiction and I want to spread them to more and more people! When not working on Anar, I am either experimenting with human behavior or spending my free time in learning or working on growth strategies. I believe no idea is too small until executed properly and no person is too small until given a chance to grow. If you are looking for startup or business help, email me(email.from.himanshu@gmail.com). I will be more than happy to help you, depending on my time availability. Specialty: Product Development, Entrepreneurship, Marketing, Scaling Business, Startups, and Growth Hacking.",
+    "education": [
+      "Guru Gobind Singh Indraprastha University"
+    ],
+    "companies": [
+      "Avyam Technologies",
+      "Travel d'globe",
+      "Anar Business Network",
+      "Inclusive Stem",
+      "Airports Authority of India",
+      "Finkosh",
+      "LimeTray",
+      "Cube26"
+    ],
+    "current_role": "Founding Member | Product Developer at Anar Business Network"
+  },
+  "kimaya-jamgaonkar": {
+    "actor_id": "kimaya-jamgaonkar",
+    "name": "Kimaya Jamgaonkar",
+    "headline": "Deloitte | IIT Madras'24",
+    "location": "Lucknow, Uttar Pradesh, India",
+    "bio": "Greetings! I am an ambitious final year civil engineering undergraduate at Indian Institute of Technology Madras (IIT Madras). I have worked as a Project Management Consultant intern at CBRE, a Fortune 500 firm. With a strong passion for Analytics, Finance, Management, and Consulting, I possess excellent communication and leadership abilities, evident from my experience in effectively leading like-minded individuals to achieve the desired goals. I have a knack for quick grasping and continuously strive to upskill myself by embracing new learning opportunities.",
+    "education": [
+      "Indian Institute of Technology, Madras",
+      "ShARE - Growing a new generation of leaders",
+      "Lawrence & Mayo Public School Kota",
+      "Cambridge School Aurangabad "
+    ],
+    "companies": [
+      "Harvard Project for Asian and International Relations (HPAIR)",
+      "Deloitte",
+      "Civil Engineering Association, IIT Madras",
+      "Finlatics",
+      "International and Alumni Relations Student Council, IIT Madras",
+      "Sangam IIT Madras",
+      "Shaastra, IIT Madras",
+      "Indian Institute of Technology, Madras",
+      "CBRE",
+      "G20 India"
+    ],
+    "current_role": "Analyst at Deloitte"
+  },
+  "prashbohra": {
+    "actor_id": "prashbohra",
+    "name": "Prashant Bohra",
+    "headline": "Founder and CEO | Start-up Mentor and Advisor| Angel Investor | JITO-JITEM National Convenor| JITO-JIIF Member| GTM Strategist, Health and HealthTech Consultant.",
+    "location": "Mumbai, Maharashtra, India",
+    "bio": "With over 25 years of experience in the health and pharmaceutical industries, I have honed my skills in strategic initiatives, P&L management, and digital marketing. Currently, I lead Strategic and Business Development Initiatives at BJW Health Private Limited, focusing on P&L management and driving innovation in healthcare delivery. My expertise lies in building profitable and sustainable businesses, planning go-to-market (GTM) strategies and executing brand-building strategies and digital marketing campaigns that yield measurable success.\n\nProfessional Journey\nMy career began in the pharmaceutical sector, where I developed a strong foundation in sales, marketing, and networking. Over the years, I have successfully built, developed, and executed numerous brand-building strategies and digital marketing campaigns, consistently delivering measurable results. My ability to leverage digital platforms has been instrumental in enhancing patient care and provider outreach.\n\nAt BJW Health Private Limited, we have developed two patented and innovative brands that address key challenges in controlling infections in hospital setups.\n\nReliance Retail's Netmeds: Partnered with Netmeds to apply my competencies in digital and performance marketing, optimizing market presence and driving substantial growth. Developed Customer Lifecycle Management (CLM) initiatives to build long-term associations, impacting success and stickiness. Our collaborative efforts have positioned us at the forefront of digital marketing in the healthcare and e-commerce segments.\n\nMarketing Consultant: Proven track record in the pharmaceutical and healthcare sectors, leading to company growth and building P&L profitability through sales drivers, strategic initiatives, and digital campaigns that yield measurable success.\n\nSkills and Expertise\n- Sustainable and Growth Orientation\n- P&L Management\n- Driving ROI and Business Impact\n- Strategic Initiatives\n- Brand-Building Strategies\n- Digital Marketing Campaigns\n\nIndustry Experience\n- Health and Hygiene\n- E-Commerce\n- Digital Healthcare Solutions\n\nDedication to Excellence\nI am mentor and Advisor to incubation centers, guiding young minds with GTM strategies, networking, and industry connections. With a dedication to excellence and a forward-thinking approach, I am committed to driving growth and innovation in the health sector. My passion for leveraging business growth to build a strong ecosystem has been a cornerstone of my career. I am always seeking new opportunities to collaborate and make a positive impact in the industry.",
+    "education": [
+      "All India Management Association (AIMA)",
+      "Nagpur University"
+    ],
+    "companies": [
+      "Netmeds wholesale",
+      "Indiabulls Pharmaceuticals",
+      "Reliance Retail",
+      "Bright Genesis Private Limited",
+      "Nanz Med Science Pharma P Ltd",
+      "BJW Health Private Limited",
+      "Macleods Pharmaceutical",
+      "Zydus Cadila",
+      "OG Good Life (Previously Humankind)",
+      "Cipla"
+    ],
+    "current_role": "Co-Founder and Director at BJW Health Private Limited"
+  },
+  "rohit-rao-42284019": {
+    "actor_id": "rohit-rao-42284019",
+    "name": "Rohit Rao",
+    "headline": "Founder & CEO at Segmind",
+    "location": "Bengaluru, Karnataka, India",
+    "bio": "",
+    "education": [
+      "Birla Institute of Technology and Science",
+      "Ram Niranjan Podar"
+    ],
+    "companies": [
+      "MySmartPrice.com",
+      "HoverX",
+      "Gadgetronica",
+      "Segmind",
+      "SenseHawk"
+    ],
+    "current_role": "Founder & CEO at Segmind"
+  },
+  "lockesh": {
+    "actor_id": "lockesh",
+    "name": "Lokesh Sharma",
+    "headline": "AI Agents for Sales Team | BoD IITK AA I Ex-Sharechat |",
+    "location": "Bengaluru, Karnataka, India",
+    "bio": "\u2022 First principle over critical thinking\n\u2022 Speed over perfection\n\u2022 Execution over strategy\n\u2022 UX with lesser features over too many features with just aesthetics\n\n\n",
+    "education": [
+      "Indian Institute of Technology, Kanpur",
+      "Indian Institute of Technology, Kanpur",
+      "Saraswati Senior Secondary School - India"
+    ],
+    "companies": [
+      "ShareChat",
+      "Prepleaf by Masai",
+      "Proshort",
+      "Instichoose",
+      "IIT Kanpur Alumni Association",
+      "Furnome",
+      "Taekwondo Club , IIT Kanpur",
+      "Sayona Safaris",
+      "Uttar Pradesh Taekwondo Association"
+    ],
+    "current_role": "Director of Product Management at Proshort"
+  },
+  "ravneetpunia": {
+    "actor_id": "ravneetpunia",
+    "name": "Ravneet Punia",
+    "headline": "Co-Founder || Ex-Samsung R&D || Previous Research at University of Oxford, University of Toronto and Goethe University Frankfurt || Google Summer of Code - 20(Mentor), 19(Student)",
+    "location": "Delhi, India",
+    "bio": "Tech Enthusiast with great interest in learning new stuff.",
+    "education": [
+      "Delhi Technological University (Formerly DCE)"
+    ],
+    "companies": [
+      "Samsung R&D Institute India",
+      "TranslateMe",
+      "Delhi Technological University (Formerly DCE)",
+      "Google Summer of Code",
+      "Hearing Aid Labs",
+      "VideoKen"
+    ],
+    "current_role": "CTO & Co-Founder at TranslateMe"
+  },
+  "aaditya-malhotra-57002216b": {
+    "actor_id": "aaditya-malhotra-57002216b",
+    "name": "Aaditya Malhotra",
+    "headline": "Programme Associate at CEEW",
+    "location": "New Delhi, Delhi, India",
+    "bio": null,
+    "education": [
+      "Tata Institute of Social Sciences",
+      "Roskilde University",
+      "Hindu College, University of Delhi",
+      "La Martiniere College"
+    ],
+    "companies": [
+      "Council on Energy, Environment and Water (CEEW)",
+      "GEDY India",
+      "Kineer Services Pvt. Ltd. ",
+      "Pratisandhi",
+      "Sapio Analytics",
+      "J-PAL South Asia",
+      "Amoli Trust",
+      "Ultrahuman",
+      "Navjyoti India Foundation",
+      "Samhita"
+    ],
+    "current_role": "Programme Associate at Council on Energy, Environment and Water (CEEW)"
+  },
+  "enrique-ferrao": {
+    "actor_id": "enrique-ferrao",
+    "name": "Enrique Ferrao",
+    "headline": "Co-Founder, CTO at Pipeshift (YC S24)",
+    "location": "Bengaluru, Karnataka, India",
+    "bio": null,
+    "education": [
+      "Y Combinator",
+      "Manipal Institute of Technology"
+    ],
+    "companies": [
+      "Hult Prize Foundation",
+      "Pipeshift (YC S24)",
+      "Forbes Technology Council",
+      "Manipal Information Security Team",
+      "Amigo",
+      "Linux Users\u2019 Group, Manipal",
+      "RUGVED Systems"
+    ],
+    "current_role": "Co-founder & CTO at Pipeshift (YC S24)"
+  },
+  "bob-guarasci-385043266": {
+    "actor_id": "bob-guarasci-385043266",
+    "name": "Bob Guarasci",
+    "headline": "Chief Executive Officer at New Jersey Community Development Corporation (NJCDC)",
+    "location": "Paterson, New Jersey, United States",
+    "bio": "In 1994, I asked my colleague Rob Long to join me in creating a new community development organization in the city of Paterson, New Jersey.  We started that year with an AmeriCorps national service program and now serve more than 4,000 children and families each day through services that include several school-based Teen Centers, a youth center, a preschool, after-school programs, a charter school, and a number of other initiatives.  We have also developed more than 200 units of affordable housing and built a number of community spaces, a dozen playgrounds, and our most recent program is a city-wide Financial Empowerment Center operated in partnership with the City of Paterson.  Along the way, we've rehabilitated a number of 100+ year-old buildings where we carry out our work, embracing the importance of historic preservation.",
+    "education": [
+      "The George Washington University"
+    ],
+    "companies": [
+      "New Jersey Community Development Corporation (NJCDC)"
+    ],
+    "current_role": "Chief Executive Officer at New Jersey Community Development Corporation (NJCDC)"
+  },
+  "aniketraz": {
+    "actor_id": "aniketraz",
+    "name": "Aniket Raj",
+    "headline": "Subject Matter Expert @ Chegg India | M.Sc in Computer Science",
+    "location": "Puducherry, Puducherry, India",
+    "bio": null,
+    "education": [
+      "Pondicherry University",
+      "Pondicherry University"
+    ],
+    "companies": [
+      "Chegg India"
+    ],
+    "current_role": "Subject Matter Expert at Chegg India"
+  },
+  "edgarpeters": {
+    "actor_id": "edgarpeters",
+    "name": "Edgar Peters",
+    "headline": "STM Consultant @OKAPI:Orbits",
+    "location": "Berlin, Berlin, Germany",
+    "bio": "SSA & SST Consulting: Offering a comprehensive service portfolio that covers all stages of a satellite's life cycle, from A to Z. This includes everything from obtaining certification and registering satellites to managing its orientation and alignment within a constellation and planning for end-of-life, deorbiting, and re-entry strategies. We ensure that your satellite remains fully optimized and compliant throughout its entire journey - Making NewSpace safe, accessible and sustainable for everyone.",
+    "education": [
+      "Hochschule Fresenius University of Applied Sciences"
+    ],
+    "companies": [
+      "OKAPI:Orbits GmbH ",
+      "Kenjo",
+      "zenloop",
+      "Afrodeutsch Advertising",
+      "DE FALCON GmbH |\u00a0Creative Music Agency",
+      "Deutsche Gesellschaft f\u00fcr Luft- und Raumfahrt - Lilienthal-Oberth e.V. (DGLR)"
+    ],
+    "current_role": "STM Solutions Consultant (SAAS) at OKAPI:Orbits GmbH "
+  },
+  "magnus-kunow": {
+    "actor_id": "magnus-kunow",
+    "name": "Magnus Kunow",
+    "headline": "Manager Bipolar Process & Product Engineering at ABB Power Grids Switzerland Ltd, Semiconductors",
+    "location": "Zurich, Zurich, Switzerland",
+    "bio": "I am an experienced leader and manager in the manufacture and engineering of power semiconductors, self-driven and committed to develop people, business and myself, appreciating the diversity of individuals complementing a team, a systematic, analytic and data-driven problem-solver and creative out-of-the-box thinker, customer-oriented and considering multiple stakeholders\u2019 interests, embracing and facilitating change, and I have a background in chemistry and material science as well as business administration",
+    "education": [
+      "University of Cumbria",
+      "Westf\u00e4lische Wilhelms-Universit\u00e4t M\u00fcnster",
+      "Westf\u00e4lische Wilhelms-Universit\u00e4t M\u00fcnster"
+    ],
+    "companies": [
+      "ABB Power Grids Switzerland Ltd, Semiconductors",
+      "ABB s.r.o., Semiconductors",
+      "ABB Switzerland Ltd, Semiconductors",
+      "Hitachi ABB Power Grids",
+      "Westf\u00e4lische Wilhelms-Universit\u00e4t M\u00fcnster",
+      "Hitachi Energy"
+    ],
+    "current_role": "Operations Manager BiMOS Frontend at Hitachi Energy"
+  },
+  "santhanakrishnan-raman-18342": {
+    "actor_id": "santhanakrishnan-raman-18342",
+    "name": "Santhanakrishnan Raman",
+    "headline": "Sr. Director, R&D, Broadcom Ltd. India",
+    "location": "Bengaluru, Karnataka, India",
+    "bio": null,
+    "education": [
+      "Indian Institute of Management Bangalore",
+      "Indian Institute of Technology, Kanpur",
+      "University of Madras"
+    ],
+    "companies": [
+      "Broadcom Limited",
+      "Duet Technologies",
+      "LSI Corporation",
+      "LSI, an Avago Technologies Company"
+    ],
+    "current_role": "Sr. Director, R&D, ASIC Products at Broadcom Limited"
+  },
+  "shraddha-goled": {
+    "actor_id": "shraddha-goled",
+    "name": "Shraddha Goled",
+    "headline": "",
+    "location": "Bengaluru, Karnataka, India",
+    "bio": "I report on the tech landscape in India. Reach out to me at shraddha.goled@livemint.com.",
+    "education": [
+      "Dayananda Sagar College of Engineering, BANGALORE",
+      "Nagarjuna College Of Engineering and Technology"
+    ],
+    "companies": [
+      "Analytics India Magazine",
+      "EducationWorld - The Human Development Magazine",
+      "The Logical Indian",
+      "TechCircle"
+    ],
+    "current_role": "Senior Correspondent at TechCircle"
+  },
+  "rohan-murugavel-7a9159227": {
+    "actor_id": "rohan-murugavel-7a9159227",
+    "name": "Rohan Murugavel",
+    "headline": "Incoming Associate Consultant at Mastercard | Undergraduate at IIT Madras",
+    "location": "Chennai, Tamil Nadu, India",
+    "bio": "",
+    "education": [
+      "Indian Institute of Technology, Madras",
+      "Suguna PIP School - India",
+      "British International School Ho Chi Minh City",
+      "Presidency School Bangalore South"
+    ],
+    "companies": [
+      "Bosch India",
+      "Shaastra, IIT Madras",
+      "Indian Institute of Technology, Madras",
+      "E-Cell IIT Madras",
+      "180 Degrees Consulting IIT Madras"
+    ],
+    "current_role": "Project Lead at 180 Degrees Consulting IIT Madras"
+  }
+}

@@ -1,8 +1,3 @@
-openai
-pydantic
-numpy
-pandas
-python-dotenv
-tqdm
-pinecone
-scikit-learn
+pinecone>=8.0.0
+httpx>=0.25.0
+python-dotenv>=1.0.0

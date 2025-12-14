@@ -1,149 +1,155 @@
-# Brace Assignment
-## Overview
+# Bracee People Search
 
-**Given:**
-- A dataset of people (`random_actors.json`)
-- A set of natural queries (`queries.csv`)
+A semantic retrieval system for searching LinkedIn-style profiles using natural language queries.
 
-**The system:**
-1. Parses queries
-2. Converts both queries and actors into vector embeddings
-3. Stores actor vectors inside a Pinecone index
-4. Performs cosine similarity search
-5. Returns top relevant actors
-6. Saves results as JSON files
+## Architecture
 
+### The Problem
 
-## Design Choices & Reasoning
+A naive "one vector per person" approach fails because:
+- Career signals (Google, Tesla, AI) dominate embeddings
+- Education queries become unreliable (Stanford alumni might show Google employees)
+- Skill queries miss semantically equivalent skills ("React" vs "frontend")
 
-### Why Embeddings?
+### The Solution: Multi-Namespace Semantic Separation + Dynamic Normalization
 
-Natural language queries are open-ended and vary greatly:
-- "someone from blr good with ml"
-- "find fintech founders"
-- "show me ex-google designers"
-
-Traditional keyword search would fail.
-Embedding models (i used gemini-001) convert text into semantic vectors, allowing us to compare meaning instead of exact words.
-
-### Why Pinecone?
-
-Pinecone provides:
-- Fast vector similarity search
-- Cosine similarity ranking
-- Scalable vector storage
-- Easy upserts and queries
-
-It fits perfectly with a semantic retrieval system.
-
-## Data Modeling
-
-Each actor is represented by a synthesized text block:
+**1. Separate vectors in isolated namespaces:**
 
 ```
-Name + Headline + Bio + Location
+┌─────────────────────────────────────────────────────────────────┐
+│                        PINECONE INDEX                          │
+├─────────────────┬─────────────────┬─────────────┬──────────────┤
+│   education     │     skills      │  companies  │   location   │
+│   namespace     │    namespace    │  namespace  │   namespace  │
+├─────────────────┼─────────────────┼─────────────┼──────────────┤
+│ "MIT, CS"       │ "ML, deep       │ "Google,    │ "San         │
+│ "Stanford, MBA" │  learning, NLP" │  Amazon"    │  Francisco"  │
+│                 │ "frontend,      │             │ "Bangalore"  │
+│                 │  React, Vue"    │             │              │
+└─────────────────┴─────────────────┴─────────────┴──────────────┘
 ```
 
-**Example:**
-```
-"Name: Sarah Chen. Headline: Co-Founder & CEO at CloudFlow AI.
- Bio: Building fintech infrastructure. Location: San Francisco."
-```
+**2. Dynamic Query Normalization (no static JSON files!):**
 
-This ensures the embedding captures:
-- Skills
-- Industry
-- Seniority
-- Geography
-- Roles
-- Experiences
-
-### Vector Representation
-
-- Each actor → one dense embedding vector
-- Each query → embedded into the same vector space
-- Similarity = cosine distance
-- Ranking = top-K highest similarity scores
-
-## Retrieval Pipeline
-
-**The workflow:**
+Instead of maintaining hardcoded alias files, Gemini dynamically expands queries:
 
 ```
-Query → Embedding → Pinecone Vector Search → Ranking → JSON Output
-```
-
-**Steps:**
-
-### Ingestion
-1. Load all actors
-2. Vectorize each actor using the embedding model
-3. Upsert to Pinecone
-
-### Querying
-1. Embed the query
-2. Query Pinecone for top-K matches
-3. Rank by similarity
-4. Output results
-
-### Output Format
-
-```json
+User Query: "folks who studied at IITB"
+     │
+     ▼ Gemini Normalization
 {
-  "query": "find founders in San Francisco",
-  "results": [
-    { "actor_id": "sarah_chen", "score": 0.42 },
-    { "actor_id": "mike_patel", "score": 0.37 }
-  ]
+  "education": ["IIT Bombay", "Indian Institute of Technology Bombay", "IITB"],
+  "normalized_query": "IIT Bombay alumni Indian Institute of Technology Bombay graduates"
 }
 ```
 
-All outputs are stored locally in `output/`.
+```
+User Query: "frontend devs in sf"
+     │
+     ▼ Gemini Normalization
+{
+  "skills": ["frontend", "react", "vue", "angular", "javascript", "typescript", "ui engineer"],
+  "locations": ["San Francisco", "Bay Area"],
+  "normalized_query": "frontend developers in San Francisco"
+}
+```
 
-## Running the Project
+This approach:
+- **Scales automatically** - no need to add new aliases to JSON files
+- **Handles edge cases** - Gemini understands context and variations
+- **Works with any data** - new schools/skills/companies work out of the box
 
-### 1️Install dependencies
+## Setup
+
+1. Install dependencies:
 ```bash
 pip install -r requirements.txt
 ```
 
-### 2️Add environment variables to `.env`
-```
-OPENROUTER_API_KEY=your_key
-PINECONE_API_KEY=your_key
+2. Set environment variables:
+```bash
+cp .env.example .env
+# Edit .env with your API keys:
+# OPENROUTER_API_KEY=your_key
+# PINECONE_API_KEY=your_key
 ```
 
-### 3️Run the full pipeline (ingest + queries.csv)
+## Usage
+
+### Quick Start
 ```bash
+# Ingest data into Pinecone
 python main.py
-```
 
-### 4️Run a custom query
-```bash
-python main.py "fintech founders working on agents in sf"
-```
-
-### 5️Skip ingestion (for rapid testing)
-```bash
-python main.py --skip-ingest "someone from blr good with ml"
-```
-
-### 6️Interactive CLI mode
-```bash
+# Ingest and start interactive query mode
 python main.py --interactive
+
+# Interactive mode without re-ingesting
+python main.py --interactive --skip-ingest
+
+# Run a single query
+python main.py --query "frontend devs from Bangalore"
+
+# Reset index and re-ingest
+python main.py --reset
 ```
 
-## Correctness of Retrieval
+### CLI Options
+```
+python main.py [OPTIONS]
 
-The system produces highly relevant matches, e.g.
+Options:
+  -i, --interactive    Start interactive query mode
+  -s, --skip-ingest    Skip data ingestion (use existing index)
+  -q, --query TEXT     Run a single query and exit
+  --actors PATH        Path to actors JSON (default: data/random_actors.json)
+  --reset              Reset Pinecone namespaces before ingestion
+  --debug              Enable debug output
+```
 
-**Query:** "find fintech people"
+## Output Format
 
-Results:
-- David Thompson — Head of Marketing @ Plaid
-- Priya Shah — Growth Marketing @ Chime
-- Alex Chen — VP Marketing @ Brex
-- Anchit Jain — Fintech + DeFi
-- Enrique Ferrao — YC CTO (semantic match)
+```json
+{
+  "query": "frontend devs from Bangalore",
+  "results": [
+    { "actor_id": "arjunmenon-ml-blr", "score": 0.89 },
+    { "actor_id": "priya-frontend-blr", "score": 0.82 }
+  ]
+}
+```
 
-The retrieval quality is consistent and aligned with query intent.
+## Why This Design Avoids Failure Modes
+
+| Failure Mode | How We Avoid It |
+|--------------|-----------------|
+| Career dominates education | Separate namespaces - education query only hits education vectors |
+| "MIT" ≠ "Massachusetts Institute of Technology" | Dynamic LLM expansion (no static aliases needed) |
+| "frontend" misses React developers | Gemini expands to all related technologies |
+| "Stanford AND MIT" returns union | Explicit intersection logic after retrieval |
+| Semantic drift in results | LLM reranker as final quality gate |
+| New schools/skills not in config | LLM handles any entity dynamically |
+
+## Project Structure
+
+```
+bracee/
+├── main.py                     # Main CLI entry point
+├── src/
+│   ├── aliases.py              # Structured alias store (schools, locations, skills)
+│   ├── embeddings.py           # Gemini embedding client (OpenRouter)
+│   ├── llm.py                  # Query normalization with caching & reranking
+│   ├── data_processing.py      # Actor → chunks transformation
+│   ├── pinecone_db.py          # Vector DB operations
+│   └── retriever.py            # Main search orchestration
+├── scripts/
+│   ├── ingest.py               # Standalone ingestion script
+│   └── run_queries.py          # Batch query execution
+├── data/
+│   ├── random_actors.json      # Input profiles
+│   ├── queries.csv             # Test queries
+│   └── profiles_cache.json     # Generated profile cache
+└── output/
+    ├── results.json            # Query results
+    └── evaluations.json        # LLM quality evaluations
+```
